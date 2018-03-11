@@ -1,410 +1,89 @@
 Timestamp,instructions,LLC-load-misses
-     0.100104010,125348677,179060
-     0.200292231,158281807,220374
-     0.300527087,185222258,138890
-     0.400700809,186148098,197175
-     0.500865661,190139063,87369
-     0.601012595,175823508,191693
-     0.701180229,202748113,162232
-     0.801465934,110293794,76351
-     0.901791797,<not counted>,<not counted>
-     1.002052314,<not counted>,<not counted>
-     1.102308430,<not counted>,<not counted>
-     1.202507679,<not counted>,<not counted>
-     1.302776605,<not counted>,<not counted>
-     1.403029931,<not counted>,<not counted>
-     1.503213605,<not counted>,<not counted>
-     1.603460773,<not counted>,<not counted>
-     1.703701416,<not counted>,<not counted>
-     1.803959988,<not counted>,<not counted>
-     1.904216859,<not counted>,<not counted>
-     2.004450769,<not counted>,<not counted>
-     2.104685045,<not counted>,<not counted>
-     2.204927291,<not counted>,<not counted>
-     2.305120849,<not counted>,<not counted>
-     2.405330219,<not counted>,<not counted>
-     2.505543908,<not counted>,<not counted>
-     2.605790110,<not counted>,<not counted>
-     2.705965787,<not counted>,<not counted>
-     2.806131049,<not counted>,<not counted>
-     2.906383765,<not counted>,<not counted>
-     3.006587685,<not counted>,<not counted>
-     3.106785293,<not counted>,<not counted>
-     3.207049694,<not counted>,<not counted>
-     3.307260335,<not counted>,<not counted>
-     3.407480259,<not counted>,<not counted>
-     3.507712145,<not counted>,<not counted>
-     3.607899947,<not counted>,<not counted>
-     3.708050546,<not counted>,<not counted>
-     3.808222665,<not counted>,<not counted>
-     3.908415417,<not counted>,<not counted>
-     4.008603580,<not counted>,<not counted>
-     4.108813705,<not counted>,<not counted>
-     4.209071252,<not counted>,<not counted>
-     4.309263215,<not counted>,<not counted>
-     4.409453875,<not counted>,<not counted>
-     4.509652430,<not counted>,<not counted>
-     4.609802232,<not counted>,<not counted>
-     4.709964324,<not counted>,<not counted>
-     4.810138946,<not counted>,<not counted>
-     4.910335415,<not counted>,<not counted>
-     5.010589171,<not counted>,<not counted>
-     5.110847503,<not counted>,<not counted>
-     5.211105110,<not counted>,<not counted>
-     5.311276890,<not counted>,<not counted>
-     5.411455780,<not counted>,<not counted>
-     5.511747594,<not counted>,<not counted>
-     5.612002305,<not counted>,<not counted>
-     5.712236125,<not counted>,<not counted>
-     5.812420599,<not counted>,<not counted>
-     5.912637239,<not counted>,<not counted>
-     6.012860490,<not counted>,<not counted>
-     6.113109586,<not counted>,<not counted>
-     6.213373026,<not counted>,<not counted>
-     6.313554096,<not counted>,<not counted>
-     6.413815843,<not counted>,<not counted>
-     6.514096721,<not counted>,<not counted>
-     6.614285814,<not counted>,<not counted>
-     6.714505769,<not counted>,<not counted>
-     6.814775396,<not counted>,<not counted>
-     6.915036053,<not counted>,<not counted>
-     7.015238157,<not counted>,<not counted>
-     7.115475198,<not counted>,<not counted>
-     7.215740440,<not counted>,<not counted>
-     7.316004957,<not counted>,<not counted>
-     7.416258763,<not counted>,<not counted>
-     7.516454967,<not counted>,<not counted>
-     7.616694848,<not counted>,<not counted>
-     7.716918863,<not counted>,<not counted>
-     7.817116808,<not counted>,<not counted>
-     7.917326592,<not counted>,<not counted>
-     8.017541253,<not counted>,<not counted>
-     8.117755037,<not counted>,<not counted>
-     8.217990874,<not counted>,<not counted>
-     8.318261775,<not counted>,<not counted>
-     8.418466965,<not counted>,<not counted>
-     8.518734717,<not counted>,<not counted>
-     8.618960108,<not counted>,<not counted>
-     8.719214744,<not counted>,<not counted>
-     8.819408907,<not counted>,<not counted>
-     8.919568875,<not counted>,<not counted>
-     9.019782221,<not counted>,<not counted>
-     9.120025672,<not counted>,<not counted>
-     9.220309030,<not counted>,<not counted>
-     9.320562207,<not counted>,<not counted>
-     9.420775551,<not counted>,<not counted>
-     9.520977106,<not counted>,<not counted>
-     9.621271094,<not counted>,<not counted>
-     9.721530276,<not counted>,<not counted>
-     9.821717390,<not counted>,<not counted>
-     9.921972065,<not counted>,<not counted>
-    10.022230139,<not counted>,<not counted>
-    10.122438488,<not counted>,<not counted>
-    10.222657293,<not counted>,<not counted>
-    10.322829473,<not counted>,<not counted>
-    10.423077203,<not counted>,<not counted>
-    10.523291608,<not counted>,<not counted>
-    10.623504769,<not counted>,<not counted>
-    10.723770665,<not counted>,<not counted>
-    10.823968805,62673,1220
-    10.924161239,<not counted>,<not counted>
-    11.024332078,<not counted>,<not counted>
-    11.124565238,<not counted>,<not counted>
-    11.224767848,<not counted>,<not counted>
-    11.324960843,<not counted>,<not counted>
-    11.425206548,<not counted>,<not counted>
-    11.525436124,<not counted>,<not counted>
-    11.625697226,<not counted>,<not counted>
-    11.725951168,<not counted>,<not counted>
-    11.826177364,<not counted>,<not counted>
-    11.926391548,<not counted>,<not counted>
-    12.026626135,<not counted>,<not counted>
-    12.126927494,<not counted>,<not counted>
-    12.227182285,<not counted>,<not counted>
-    12.327401426,<not counted>,<not counted>
-    12.427604021,<not counted>,<not counted>
-    12.527806109,<not counted>,<not counted>
-    12.628049737,<not counted>,<not counted>
-    12.728288488,<not counted>,<not counted>
-    12.828625048,<not counted>,<not counted>
-    12.928838948,<not counted>,<not counted>
-    13.029099615,<not counted>,<not counted>
-    13.129315756,<not counted>,<not counted>
-    13.229526016,<not counted>,<not counted>
-    13.329777578,<not counted>,<not counted>
-    13.430032729,<not counted>,<not counted>
-    13.530298256,<not counted>,<not counted>
-    13.630578260,<not counted>,<not counted>
-    13.730856718,<not counted>,<not counted>
-    13.831114760,<not counted>,<not counted>
-    13.931343360,<not counted>,<not counted>
-    14.031602218,<not counted>,<not counted>
-    14.131864730,<not counted>,<not counted>
-    14.232124782,<not counted>,<not counted>
-    14.332385094,<not counted>,<not counted>
-    14.432597759,<not counted>,<not counted>
-    14.532790124,<not counted>,<not counted>
-    14.633037371,<not counted>,<not counted>
-    14.733232560,<not counted>,<not counted>
-    14.833478267,<not counted>,<not counted>
-    14.933672656,<not counted>,<not counted>
-    15.033917328,<not counted>,<not counted>
-    15.134174625,<not counted>,<not counted>
-    15.234379285,<not counted>,<not counted>
-    15.334596045,<not counted>,<not counted>
-    15.434792290,<not counted>,<not counted>
-    15.535062508,<not counted>,<not counted>
-    15.635318499,<not counted>,<not counted>
-    15.735575422,<not counted>,<not counted>
-    15.835855275,23357,396
-    15.936118712,<not counted>,<not counted>
-    16.036402125,<not counted>,<not counted>
-    16.136635725,<not counted>,<not counted>
-    16.236845747,<not counted>,<not counted>
-    16.337059912,<not counted>,<not counted>
-    16.437236781,<not counted>,<not counted>
-    16.537458757,<not counted>,<not counted>
-    16.637727100,<not counted>,<not counted>
-    16.738007498,<not counted>,<not counted>
-    16.838268120,<not counted>,<not counted>
-    16.938481775,<not counted>,<not counted>
-    17.038694001,<not counted>,<not counted>
-    17.138948918,<not counted>,<not counted>
-    17.239185840,<not counted>,<not counted>
-    17.339441637,<not counted>,<not counted>
-    17.439626621,<not counted>,<not counted>
-    17.539879793,<not counted>,<not counted>
-    17.640081673,<not counted>,<not counted>
-    17.740312084,<not counted>,<not counted>
-    17.840820862,<not counted>,<not counted>
-    17.941032002,<not counted>,<not counted>
-    18.041229252,<not counted>,<not counted>
-    18.141410866,<not counted>,<not counted>
-    18.241582755,<not counted>,<not counted>
-    18.341770069,<not counted>,<not counted>
-    18.441965669,<not counted>,<not counted>
-    18.542210481,<not counted>,<not counted>
-    18.642452762,<not counted>,<not counted>
-    18.742700534,<not counted>,<not counted>
-    18.842953016,<not counted>,<not counted>
-    18.943164091,<not counted>,<not counted>
-    19.043409734,<not counted>,<not counted>
-    19.143634917,<not counted>,<not counted>
-    19.243880167,<not counted>,<not counted>
-    19.344137964,<not counted>,<not counted>
-    19.444693709,<not counted>,<not counted>
-    19.544883580,<not counted>,<not counted>
-    19.645072553,<not counted>,<not counted>
-    19.745282108,<not counted>,<not counted>
-    19.845485024,<not counted>,<not counted>
-    19.945760997,<not counted>,<not counted>
-    20.046032204,<not counted>,<not counted>
-    20.146296864,<not counted>,<not counted>
-    20.246541189,<not counted>,<not counted>
-    20.346736164,<not counted>,<not counted>
-    20.446984371,<not counted>,<not counted>
-    20.547255485,<not counted>,<not counted>
-    20.647530667,<not counted>,<not counted>
-    20.747818986,<not counted>,<not counted>
-    20.848084680,6235899,12720
-    20.948338946,<not counted>,<not counted>
-    21.048937408,<not counted>,<not counted>
-    21.149139248,<not counted>,<not counted>
-    21.249338138,<not counted>,<not counted>
-    21.349556074,<not counted>,<not counted>
-    21.449803571,<not counted>,<not counted>
-    21.550061519,<not counted>,<not counted>
-    21.650264074,<not counted>,<not counted>
-    21.750471264,<not counted>,<not counted>
-    21.850718456,<not counted>,<not counted>
-    21.950978019,<not counted>,<not counted>
-    22.051237182,<not counted>,<not counted>
-    22.151451588,<not counted>,<not counted>
-    22.251643742,<not counted>,<not counted>
-    22.351887514,<not counted>,<not counted>
-    22.452136021,<not counted>,<not counted>
-    22.552382383,<not counted>,<not counted>
-    22.652601520,<not counted>,<not counted>
-    22.752821625,<not counted>,<not counted>
-    22.853087841,<not counted>,<not counted>
-    22.953273083,<not counted>,<not counted>
-    23.053480064,<not counted>,<not counted>
-    23.153762937,<not counted>,<not counted>
-    23.254021195,<not counted>,<not counted>
-    23.354237410,<not counted>,<not counted>
-    23.454443036,<not counted>,<not counted>
-    23.554650671,<not counted>,<not counted>
-    23.654863498,<not counted>,<not counted>
-    23.755072238,<not counted>,<not counted>
-    23.855270728,<not counted>,<not counted>
-    23.955489929,<not counted>,<not counted>
-    24.055703840,<not counted>,<not counted>
-    24.155911653,<not counted>,<not counted>
-    24.256146372,<not counted>,<not counted>
-    24.356907597,<not counted>,<not counted>
-    24.457120117,<not counted>,<not counted>
-    24.557351711,<not counted>,<not counted>
-    24.657552284,<not counted>,<not counted>
-    24.757756700,<not counted>,<not counted>
-    24.857949464,<not counted>,<not counted>
-    24.958141409,<not counted>,<not counted>
-    25.058383847,<not counted>,<not counted>
-    25.158588894,<not counted>,<not counted>
-    25.258756849,<not counted>,<not counted>
-    25.358924715,<not counted>,<not counted>
-    25.459135946,<not counted>,<not counted>
-    25.559354987,<not counted>,<not counted>
-    25.659576518,<not counted>,<not counted>
-    25.759832861,<not counted>,<not counted>
-    25.860044002,23646,417
-    25.960302674,<not counted>,<not counted>
-    26.060568848,<not counted>,<not counted>
-    26.160772908,<not counted>,<not counted>
-    26.261024935,<not counted>,<not counted>
-    26.361277743,<not counted>,<not counted>
-    26.461532756,<not counted>,<not counted>
-    26.561789454,<not counted>,<not counted>
-    26.662044832,<not counted>,<not counted>
-    26.762263548,<not counted>,<not counted>
-    26.862497135,<not counted>,<not counted>
-    26.962744116,<not counted>,<not counted>
-    27.063002300,<not counted>,<not counted>
-    27.163214457,<not counted>,<not counted>
-    27.263442707,<not counted>,<not counted>
-    27.363667073,<not counted>,<not counted>
-    27.463912466,<not counted>,<not counted>
-    27.564204231,<not counted>,<not counted>
-    27.664464138,<not counted>,<not counted>
-    27.764698975,<not counted>,<not counted>
-    27.864908796,<not counted>,<not counted>
-    27.965156414,<not counted>,<not counted>
-    28.065408516,<not counted>,<not counted>
-    28.165642324,<not counted>,<not counted>
-    28.265840408,<not counted>,<not counted>
-    28.366053254,<not counted>,<not counted>
-    28.466310492,<not counted>,<not counted>
-    28.566524454,<not counted>,<not counted>
-    28.666824459,<not counted>,<not counted>
-    28.767100382,<not counted>,<not counted>
-    28.867301367,<not counted>,<not counted>
-    28.967471022,<not counted>,<not counted>
-    29.067647901,<not counted>,<not counted>
-    29.167895302,<not counted>,<not counted>
-    29.268136967,<not counted>,<not counted>
-    29.368383249,<not counted>,<not counted>
-    29.468559228,<not counted>,<not counted>
-    29.568807501,<not counted>,<not counted>
-    29.669066634,<not counted>,<not counted>
-    29.769327022,<not counted>,<not counted>
-    29.869581670,<not counted>,<not counted>
-    29.969834253,<not counted>,<not counted>
-    30.070057574,<not counted>,<not counted>
-    30.170326923,<not counted>,<not counted>
-    30.270581298,<not counted>,<not counted>
-    30.370781052,<not counted>,<not counted>
-    30.471026279,<not counted>,<not counted>
-    30.571238505,<not counted>,<not counted>
-    30.671485912,<not counted>,<not counted>
-    30.771685953,<not counted>,<not counted>
-    30.871907155,37053,767
-    30.972152307,<not counted>,<not counted>
-    31.072419815,<not counted>,<not counted>
-    31.172657452,<not counted>,<not counted>
-    31.272891985,<not counted>,<not counted>
-    31.373118957,<not counted>,<not counted>
-    31.473316282,<not counted>,<not counted>
-    31.573531408,<not counted>,<not counted>
-    31.673791552,<not counted>,<not counted>
-    31.774090876,<not counted>,<not counted>
-    31.874364861,<not counted>,<not counted>
-    31.974576691,<not counted>,<not counted>
-    32.074770712,<not counted>,<not counted>
-    32.174970483,<not counted>,<not counted>
-    32.275188995,<not counted>,<not counted>
-    32.375401926,<not counted>,<not counted>
-    32.475608467,<not counted>,<not counted>
-    32.575852700,<not counted>,<not counted>
-    32.676074311,<not counted>,<not counted>
-    32.776262547,<not counted>,<not counted>
-    32.876525900,<not counted>,<not counted>
-    32.976778198,<not counted>,<not counted>
-    33.076997044,<not counted>,<not counted>
-    33.177267733,<not counted>,<not counted>
-    33.277477914,<not counted>,<not counted>
-    33.377719897,<not counted>,<not counted>
-    33.477941269,<not counted>,<not counted>
-    33.578198627,<not counted>,<not counted>
-    33.678415283,<not counted>,<not counted>
-    33.778664169,<not counted>,<not counted>
-    33.878904213,<not counted>,<not counted>
-    33.979108954,<not counted>,<not counted>
-    34.079376193,<not counted>,<not counted>
-    34.179622959,<not counted>,<not counted>
-    34.279858740,<not counted>,<not counted>
-    34.380097516,<not counted>,<not counted>
-    34.480324537,<not counted>,<not counted>
-    34.580582052,<not counted>,<not counted>
-    34.680819909,<not counted>,<not counted>
-    34.781040900,<not counted>,<not counted>
-    34.881253092,<not counted>,<not counted>
-    34.981499709,<not counted>,<not counted>
-    35.081758408,<not counted>,<not counted>
-    35.182037187,<not counted>,<not counted>
-    35.282287425,<not counted>,<not counted>
-    35.382480026,<not counted>,<not counted>
-    35.482715893,<not counted>,<not counted>
-    35.582940055,<not counted>,<not counted>
-    35.683117975,<not counted>,<not counted>
-    35.783334081,<not counted>,<not counted>
-    35.883549404,23562,474
-    35.983809147,<not counted>,<not counted>
-    36.084069860,<not counted>,<not counted>
-    36.184330979,<not counted>,<not counted>
-    36.284578411,<not counted>,<not counted>
-    36.384773122,<not counted>,<not counted>
-    36.484957253,<not counted>,<not counted>
-    36.585152838,<not counted>,<not counted>
-    36.685355434,<not counted>,<not counted>
-    36.785557031,<not counted>,<not counted>
-    36.885784107,<not counted>,<not counted>
-    36.986028258,<not counted>,<not counted>
-    37.086267769,<not counted>,<not counted>
-    37.186472184,<not counted>,<not counted>
-    37.286671691,<not counted>,<not counted>
-    37.386882572,<not counted>,<not counted>
-    37.487073282,<not counted>,<not counted>
-    37.587268799,<not counted>,<not counted>
-    37.687461169,<not counted>,<not counted>
-    37.787651194,<not counted>,<not counted>
-    37.887842836,<not counted>,<not counted>
-    37.988022541,<not counted>,<not counted>
-    38.088222367,<not counted>,<not counted>
-    38.188593750,<not counted>,<not counted>
-    38.288789856,<not counted>,<not counted>
-    38.389073510,<not counted>,<not counted>
-    38.489278262,<not counted>,<not counted>
-    38.589474158,<not counted>,<not counted>
-    38.689719220,<not counted>,<not counted>
-    38.789978354,<not counted>,<not counted>
-    38.890172890,<not counted>,<not counted>
-    38.990375601,<not counted>,<not counted>
-    39.090582413,<not counted>,<not counted>
-    39.190764863,<not counted>,<not counted>
-    39.290950777,<not counted>,<not counted>
-    39.391126824,<not counted>,<not counted>
-    39.491313264,<not counted>,<not counted>
-    39.591520811,<not counted>,<not counted>
-    39.691765019,<not counted>,<not counted>
-    39.791965995,<not counted>,<not counted>
-    39.892228254,<not counted>,<not counted>
-    39.992458226,<not counted>,<not counted>
-    40.092727260,<not counted>,<not counted>
-    40.192998380,<not counted>,<not counted>
-    40.293166765,<not counted>,<not counted>
-    40.393377306,<not counted>,<not counted>
-    40.493564167,<not counted>,<not counted>
-    40.593817365,<not counted>,<not counted>
-    40.694047438,<not counted>,<not counted>
-    40.794303506,<not counted>,<not counted>
-    40.894488656,92093892,1072348
-    40.921419078,25187301,421580
+     0.100117209,306349029,331290
+     0.200277515,368340910,260046
+     0.300413471,393356622,190133
+     0.400604684,252700177,191611
+     0.500832543,<not counted>,<not counted>
+     0.601081860,115876,1841
+     0.701329890,<not counted>,<not counted>
+     0.801582015,<not counted>,<not counted>
+     0.901771393,8541655,13829
+     1.002010716,12083709,20025
+     1.102238724,<not counted>,<not counted>
+     1.202475604,87494,1861
+     1.302717413,<not counted>,<not counted>
+     1.402964878,<not counted>,<not counted>
+     1.503170863,8368855,14590
+     1.603376378,3291681,9179
+     1.703561526,442699342,82112
+     1.803700538,567253036,105724
+     1.903819480,536366776,188860
+     2.003969779,538885932,182752
+     2.104089210,575133445,293939
+     2.204224914,525508408,219590
+     2.304359105,558393031,179698
+     2.404497004,546861257,247805
+     2.504628498,501254620,442137
+     2.604762882,454122295,580767
+     2.704896292,512573118,405121
+     2.805001477,497226466,479545
+     2.905132699,391088178,1214056
+     3.005267262,341406758,915262
+     3.105388790,359646463,200898
+     3.205520827,367707782,180923
+     3.305644091,356101472,191290
+     3.405789856,373797485,174549
+     3.505916893,374455375,198542
+     3.606052874,456175742,79487
+     3.706217282,350433707,162887
+     3.806432705,381088103,307278
+     3.906554105,461807668,142309
+     4.006683314,482957904,70454
+     4.106805593,474784247,64996
+     4.206932209,442630417,55912
+     4.307056492,421570343,67155
+     4.407192457,471263890,87362
+     4.507320838,458534179,59245
+     4.607447349,462790730,69086
+     4.707564139,455422546,88858
+     4.807723717,421055521,159797
+     4.907868831,407053857,162901
+     5.008002398,418735507,147368
+     5.108180332,431786682,166837
+     5.208303976,446947491,148238
+     5.308434352,441001222,144362
+     5.408556429,411068069,170340
+     5.508679261,422261592,164221
+     5.608802523,471194405,59267
+     5.708930070,442490838,90768
+     5.809091452,435633954,127524
+     5.909217257,461623894,118319
+     6.009339397,422243656,162260
+     6.109461952,463435653,88611
+     6.209582110,442301687,118866
+     6.309708598,439238113,97955
+     6.409830056,421675346,146295
+     6.509960992,432766325,152670
+     6.610079532,463614960,121455
+     6.710195251,448772894,109837
+     6.810339499,469141863,75920
+     6.910464900,438328741,80195
+     7.010589232,452632317,87915
+     7.110710917,455616642,145883
+     7.210834844,423815376,153881
+     7.310957988,457483065,115400
+     7.411081009,448067772,121424
+     7.511206938,426536236,141441
+     7.611329837,422472648,156601
+     7.711450271,423431443,142241
+     7.811580507,449923503,144023
+     7.911702706,442520372,150574
+     8.011828122,467599681,121216
+     8.111969965,352312053,353527
+     8.212095498,364651055,594549
+     8.312217911,431907615,163522
+     8.412343992,352375420,220485
+     8.512489688,373098030,194922
+     8.612633141,323669269,1510054
+     8.712784696,91649766,3904367
+     8.771121921,79776497,2728121

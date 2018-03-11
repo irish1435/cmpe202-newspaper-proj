@@ -4,6 +4,9 @@
 #branch, L1, L2, IPC, LLC
 #inst=0
 #core=$1
+
+cmd="docker exec throughput /bin/sh -c"
+
 echo Welcome to Newspaper benchmarks!
 echo latency \(l\) or throughput \(t\)?
 read benchmark
