@@ -1,0 +1,1910 @@
+# started on Sun Mar 11 00:00:06 2018
+
+     0.010130728,2126309,,branches,9496309,100.00,,,,
+     0.010130728,75800,,branch-misses,9517514,100.00,3.56,of all branches
+     0.020348604,2235611,,branches,9863224,100.00,,,,
+     0.020348604,101206,,branch-misses,9867488,100.00,4.64,of all branches
+     0.030508018,2220737,,branches,9961565,100.00,,,,
+     0.030508018,104516,,branch-misses,9964570,100.00,4.76,of all branches
+     0.040761978,2390318,,branches,10035078,100.00,,,,
+     0.040761978,90418,,branch-misses,10036951,100.00,4.03,of all branches
+     0.050911915,2090802,,branches,10057911,100.00,,,,
+     0.050911915,87499,,branch-misses,10059468,100.00,3.95,of all branches
+     0.061065058,2143084,,branches,10073309,100.00,,,,
+     0.061065058,99615,,branch-misses,10074908,100.00,4.53,of all branches
+     0.071241389,2182273,,branches,10088032,100.00,,,,
+     0.071241389,94175,,branch-misses,10089356,100.00,4.28,of all branches
+     0.081412703,2363555,,branches,10090417,100.00,,,,
+     0.081412703,82836,,branch-misses,10091510,100.00,3.73,of all branches
+     0.091583778,2182866,,branches,10099192,100.00,,,,
+     0.091583778,87210,,branch-misses,10100280,100.00,3.94,of all branches
+     0.101750406,2252041,,branches,10106006,100.00,,,,
+     0.101750406,85125,,branch-misses,10106881,100.00,3.84,of all branches
+     0.112427772,2589197,,branches,10157817,100.00,,,,
+     0.112427772,107738,,branch-misses,10158679,100.00,4.78,of all branches
+     0.122592867,2261269,,branches,10158471,100.00,,,,
+     0.122592867,98138,,branch-misses,10159188,100.00,4.36,of all branches
+     0.132755269,2014575,,branches,10157410,100.00,,,,
+     0.132755269,71238,,branch-misses,10158065,100.00,3.19,of all branches
+     0.142922508,2605830,,branches,10158050,100.00,,,,
+     0.142922508,90090,,branch-misses,10158685,100.00,3.98,of all branches
+     0.153065911,2299493,,branches,10157185,100.00,,,,
+     0.153065911,45093,,branch-misses,10157664,100.00,1.99,of all branches
+     0.163206613,2286354,,branches,10156115,100.00,,,,
+     0.163206613,85128,,branch-misses,10156576,100.00,3.76,of all branches
+     0.173363382,2376398,,branches,10155917,100.00,,,,
+     0.173363382,82556,,branch-misses,10156509,100.00,3.63,of all branches
+     0.183900527,2408703,,branches,10177152,100.00,,,,
+     0.183900527,95938,,branch-misses,10177662,100.00,4.21,of all branches
+     0.194078295,2263128,,branches,10177170,100.00,,,,
+     0.194078295,97694,,branch-misses,10177642,100.00,4.29,of all branches
+     0.204221525,2494383,,branches,10175561,100.00,,,,
+     0.204221525,75772,,branch-misses,10175927,100.00,3.31,of all branches
+     0.214388174,2606099,,branches,10174979,100.00,,,,
+     0.214388174,72260,,branch-misses,10175420,100.00,3.14,of all branches
+     0.224561061,2559427,,branches,10174850,100.00,,,,
+     0.224561061,104186,,branch-misses,10175295,100.00,4.50,of all branches
+     0.234729396,2061197,,branches,10174667,100.00,,,,
+     0.234729396,104060,,branch-misses,10174998,100.00,4.51,of all branches
+     0.244891003,1997017,,branches,10174029,100.00,,,,
+     0.244891003,84711,,branch-misses,10174399,100.00,3.70,of all branches
+     0.255064346,2279594,,branches,10174071,100.00,,,,
+     0.255064346,92016,,branch-misses,10174362,100.00,4.02,of all branches
+     0.265233246,3208038,,branches,10173818,100.00,,,,
+     0.265233246,60142,,branch-misses,10174120,100.00,2.58,of all branches
+     0.275379084,2353466,,branches,10048913,98.80,,,,
+     0.275379084,77207,,branch-misses,10048913,98.80,3.32,of all branches
+     0.285547902,3992040,,branches,9889101,97.23,,,,
+     0.285547902,66831,,branch-misses,10032849,98.64,2.80,of all branches
+     0.295726936,4231730,,branches,9630741,94.69,,,,
+     0.295726936,70943,,branch-misses,9899730,97.33,2.89,of all branches
+     0.305916018,3618147,,branches,9443740,92.85,,,,
+     0.305916018,4627,,branch-misses,9576998,94.15,0.19,of all branches
+     0.316076187,<not counted>,,branches,9139103,89.85,,,,
+     0.316076187,120874,,branch-misses,9397175,92.39,5.02,of all branches
+     0.326245933,2135440,,branches,8923461,87.74,,,,
+     0.326245933,98036,,branch-misses,9173736,90.19,4.08,of all branches
+     0.336433645,2185756,,branches,8833763,86.85,,,,
+     0.336433645,84448,,branch-misses,8942606,87.92,3.53,of all branches
+     0.346607951,1122926,,branches,8682057,86.30,,,,
+     0.346607951,46668,,branch-misses,8787957,86.82,1.98,of all branches
+     0.356867879,2047187,,branches,8695316,86.65,,,,
+     0.356867879,71990,,branch-misses,8797939,87.16,3.07,of all branches
+     0.367141852,<not counted>,,branches,8453779,84.24,,,,
+     0.367141852,<not counted>,,branch-misses,8553552,84.75,,,,
+     0.377404975,3612930,,branches,8371583,83.37,,,,
+     0.377404975,74647,,branch-misses,8362249,82.82,3.22,of all branches
+     0.391668552,3948952,,branches,8421295,82.95,,,,
+     0.391668552,143000,,branch-misses,8314903,81.47,6.05,of all branches
+     0.402004279,2072192,,branches,8264944,81.38,,,,
+     0.402004279,88720,,branch-misses,8153812,79.86,3.77,of all branches
+     0.412215743,2396681,,branches,8213728,80.86,,,,
+     0.412215743,70380,,branch-misses,7994736,78.30,2.99,of all branches
+     0.422385929,1969335,,branches,8167419,80.42,,,,
+     0.422385929,50548,,branch-misses,7861986,77.03,2.15,of all branches
+     0.432652743,3077776,,branches,8085006,79.58,,,,
+     0.432652743,76162,,branch-misses,7691789,75.35,3.22,of all branches
+     0.442810122,2621590,,branches,8066797,79.40,,,,
+     0.442810122,110263,,branch-misses,7682518,75.27,4.65,of all branches
+     0.452965081,2829604,,branches,7973733,78.49,,,,
+     0.452965081,<not counted>,,branch-misses,7507915,73.56,,,,
+     0.463121058,3319695,,branches,7867010,77.44,,,,
+     0.463121058,<not counted>,,branch-misses,7341072,71.94,,,,
+     0.473278581,2865950,,branches,7713868,75.93,,,,
+     0.473278581,<not counted>,,branch-misses,7181484,70.38,,,,
+     0.483461618,3267443,,branches,7709574,75.89,,,,
+     0.483461618,87905,,branch-misses,7102904,69.61,3.62,of all branches
+     0.493633004,3241976,,branches,7726745,76.05,,,,
+     0.493633004,122411,,branch-misses,7132532,69.91,5.00,of all branches
+     0.503916691,3652918,,branches,7647842,75.26,,,,
+     0.503916691,124034,,branch-misses,7068314,69.27,5.02,of all branches
+     0.514076714,4590989,,branches,7575036,74.55,,,,
+     0.514076714,130845,,branch-misses,7007216,68.68,5.21,of all branches
+     0.524233552,<not counted>,,branches,7426506,73.09,,,,
+     0.524233552,<not counted>,,branch-misses,6869820,67.34,,,,
+     0.534402404,3505175,,branches,7330481,72.14,,,,
+     0.534402404,92668,,branch-misses,6862284,67.27,3.73,of all branches
+     0.544669887,2980429,,branches,7297677,71.80,,,,
+     0.544669887,95226,,branch-misses,6851888,67.16,3.82,of all branches
+     0.554853903,<not counted>,,branches,7162535,70.47,,,,
+     0.554853903,90789,,branch-misses,6785412,66.51,3.71,of all branches
+     0.565015920,<not counted>,,branches,7032307,69.19,,,,
+     0.565015920,69735,,branch-misses,6735498,66.02,2.90,of all branches
+     0.575186919,2973003,,branches,7035245,69.22,,,,
+     0.575186919,26527,,branch-misses,6743900,66.11,1.10,of all branches
+     0.585355278,3378141,,branches,6990208,68.77,,,,
+     0.585355278,95018,,branch-misses,6776520,66.43,3.91,of all branches
+     0.595528960,<not counted>,,branches,6869688,67.59,,,,
+     0.595528960,<not counted>,,branch-misses,6659684,65.29,,,,
+     0.605697252,3031031,,branches,6917740,68.06,,,,
+     0.605697252,69382,,branch-misses,6643910,65.14,2.89,of all branches
+     0.616081743,3568724,,branches,6906520,67.93,,,,
+     0.616081743,129638,,branch-misses,6570400,64.40,5.36,of all branches
+     0.626244329,3177372,,branches,6830960,67.18,,,,
+     0.626244329,78346,,branch-misses,6500491,63.72,3.22,of all branches
+     0.636400967,3528897,,branches,6812638,67.00,,,,
+     0.636400967,63991,,branch-misses,6552304,64.23,2.61,of all branches
+     0.646560969,<not counted>,,branches,6704501,65.94,,,,
+     0.646560969,<not counted>,,branch-misses,6448299,63.22,,,,
+     0.656697399,2279896,,branches,6673955,65.65,,,,
+     0.656697399,77859,,branch-misses,6358888,62.35,3.23,of all branches
+     0.668021662,2078494,,branches,6684348,65.63,,,,
+     0.668021662,85358,,branch-misses,6373270,62.38,3.55,of all branches
+     0.678199167,2964424,,branches,6676747,65.56,,,,
+     0.678199167,72725,,branch-misses,6310989,61.78,3.02,of all branches
+     0.688643545,3767355,,branches,6660718,65.38,,,,
+     0.688643545,58807,,branch-misses,6310246,61.75,2.42,of all branches
+     0.698812271,1769738,,branches,6618595,64.97,,,,
+     0.698812271,86097,,branch-misses,6322567,61.88,3.56,of all branches
+     0.708985409,2578002,,branches,6595671,64.74,,,,
+     0.708985409,93571,,branch-misses,6286731,61.53,3.86,of all branches
+     0.719332506,2528115,,branches,6591300,64.69,,,,
+     0.719332506,92913,,branch-misses,6244639,61.11,3.83,of all branches
+     0.729501137,2932104,,branches,6619850,64.97,,,,
+     0.729501137,105189,,branch-misses,6277956,61.44,4.32,of all branches
+     0.739673191,2783505,,branches,6582947,64.61,,,,
+     0.739673191,87367,,branch-misses,6245801,61.13,3.58,of all branches
+     0.749852730,2241363,,branches,6518903,63.98,,,,
+     0.749852730,109112,,branch-misses,6186498,60.55,4.48,of all branches
+     0.760082594,2604964,,branches,6458035,63.38,,,,
+     0.760082594,106583,,branch-misses,6187095,60.55,4.37,of all branches
+     0.770236475,2820050,,branches,6451742,63.32,,,,
+     0.770236475,61101,,branch-misses,6183928,60.53,2.50,of all branches
+     0.780398186,1876077,,branches,6492705,63.73,,,,
+     0.780398186,87766,,branch-misses,6228301,60.97,3.61,of all branches
+     0.790548506,<not counted>,,branches,6408384,62.90,,,,
+     0.790548506,<not counted>,,branch-misses,6147414,60.18,,,,
+     0.800703309,3799291,,branches,6376746,62.59,,,,
+     0.800703309,89417,,branch-misses,6170977,60.42,3.69,of all branches
+     0.810868067,2765061,,branches,6346235,62.30,,,,
+     0.810868067,<not counted>,,branch-misses,6092864,59.66,,,,
+     0.822001004,4391576,,branches,6392663,62.68,,,,
+     0.822001004,22150,,branch-misses,6142563,60.07,0.90,of all branches
+     0.832168982,3315799,,branches,6385331,62.61,,,,
+     0.832168982,22877,,branch-misses,6140873,60.06,0.93,of all branches
+     0.842343220,3964348,,branches,6336520,62.13,,,,
+     0.842343220,86653,,branch-misses,6141136,60.07,3.50,of all branches
+     0.852490209,2369062,,branches,6325911,62.03,,,,
+     0.852490209,105945,,branch-misses,6132783,59.99,4.28,of all branches
+     0.862813772,2004723,,branches,6332291,62.09,,,,
+     0.862813772,91592,,branch-misses,6105541,59.72,3.71,of all branches
+     0.872966138,2042525,,branches,6271420,61.49,,,,
+     0.872966138,<not counted>,,branch-misses,6033711,59.02,,,,
+     0.883129893,3988494,,branches,6281664,61.60,,,,
+     0.883129893,56695,,branch-misses,6000237,58.70,2.28,of all branches
+     0.893300497,2471916,,branches,6280248,61.58,,,,
+     0.893300497,46166,,branch-misses,5986931,58.57,1.86,of all branches
+     0.903448061,3184862,,branches,6239070,61.18,,,,
+     0.903448061,110465,,branch-misses,5964320,58.36,4.43,of all branches
+     0.913625077,3264294,,branches,6213459,60.93,,,,
+     0.913625077,<not counted>,,branch-misses,5897305,57.70,,,,
+     0.923814856,<not counted>,,branches,6144420,60.26,,,,
+     0.923814856,<not counted>,,branch-misses,5831780,57.07,,,,
+     0.933975271,<not counted>,,branches,6076899,59.60,,,,
+     0.933975271,103934,,branch-misses,5811365,56.87,4.25,of all branches
+     0.944130147,2074175,,branches,6055613,59.39,,,,
+     0.944130147,104186,,branch-misses,5836817,57.12,4.27,of all branches
+     0.954278103,3941157,,branches,6099601,59.83,,,,
+     0.954278103,71561,,branch-misses,5840327,57.16,2.91,of all branches
+     0.964445366,3036905,,branches,6052438,59.37,,,,
+     0.964445366,61000,,branch-misses,5795834,56.73,2.48,of all branches
+     0.974615931,4441356,,branches,6029203,59.14,,,,
+     0.974615931,67837,,branch-misses,5775300,56.53,2.73,of all branches
+     0.984924434,4732953,,branches,6007831,58.92,,,,
+     0.984924434,146208,,branch-misses,5766873,56.44,5.83,of all branches
+     0.995100412,3606659,,branches,5978213,58.63,,,,
+     0.995100412,130131,,branch-misses,5771215,56.49,5.16,of all branches
+     1.005442515,2507667,,branches,5925979,58.11,,,,
+     1.005442515,109570,,branch-misses,5721000,55.99,4.35,of all branches
+     1.015617275,<not counted>,,branches,5866121,0.00,,,,
+     1.015617275,<not counted>,,branch-misses,5663212,55.71,,,,
+     1.025773305,<not counted>,,branches,5807459,0.00,,,,
+     1.025773305,<not counted>,,branch-misses,5606580,55.71,,,,
+     1.035906791,<not counted>,,branches,5749960,0.00,,,,
+     1.035906791,<not counted>,,branch-misses,5551070,55.71,,,,
+     1.046046479,<not counted>,,branches,5693588,0.00,,,,
+     1.046046479,<not counted>,,branch-misses,5496647,55.71,,,,
+     1.056188450,<not counted>,,branches,5638310,0.00,,,,
+     1.056188450,<not counted>,,branch-misses,5443282,55.71,,,,
+     1.066341786,<not counted>,,branches,5584096,0.00,,,,
+     1.066341786,<not counted>,,branch-misses,5390943,55.71,,,,
+     1.076536662,<not counted>,,branches,5530914,0.00,,,,
+     1.076536662,<not counted>,,branch-misses,5339600,55.71,,,,
+     1.086696234,<not counted>,,branches,5478735,0.00,,,,
+     1.086696234,<not counted>,,branch-misses,5289227,55.71,,,,
+     1.096852557,<not counted>,,branches,5427532,0.00,,,,
+     1.096852557,<not counted>,,branch-misses,5239795,55.71,,,,
+     1.107009340,<not counted>,,branches,5377277,0.00,,,,
+     1.107009340,<not counted>,,branch-misses,5191278,55.71,,,,
+     1.117150861,<not counted>,,branches,5327944,0.00,,,,
+     1.117150861,<not counted>,,branch-misses,5143652,55.71,,,,
+     1.127316850,<not counted>,,branches,5279508,0.00,,,,
+     1.127316850,<not counted>,,branch-misses,5096891,55.71,,,,
+     1.137480484,<not counted>,,branches,5231945,0.00,,,,
+     1.137480484,<not counted>,,branch-misses,5050973,55.71,,,,
+     1.147627992,<not counted>,,branches,5185232,0.00,,,,
+     1.147627992,<not counted>,,branch-misses,5005875,55.71,,,,
+     1.157774997,543249,,branches,5142252,0.00,,,,
+     1.157774997,6331,,branch-misses,4964483,55.69,0.29,of all branches
+     1.167935161,<not counted>,,branches,5097145,0.00,,,,
+     1.167935161,<not counted>,,branch-misses,4920935,55.69,,,,
+     1.178109565,<not counted>,,branches,5052822,0.00,,,,
+     1.178109565,<not counted>,,branch-misses,4878144,55.69,,,,
+     1.188248589,<not counted>,,branches,5009263,0.00,,,,
+     1.188248589,<not counted>,,branch-misses,4836091,55.69,,,,
+     1.198412161,<not counted>,,branches,4966449,0.00,,,,
+     1.198412161,<not counted>,,branch-misses,4794757,55.69,,,,
+     1.208569589,<not counted>,,branches,4924360,0.00,,,,
+     1.208569589,<not counted>,,branch-misses,4754124,55.69,,,,
+     1.218709727,<not counted>,,branches,4882979,0.00,,,,
+     1.218709727,<not counted>,,branch-misses,4714173,55.69,,,,
+     1.228857952,<not counted>,,branches,4842287,0.00,,,,
+     1.228857952,<not counted>,,branch-misses,4674888,55.69,,,,
+     1.239021671,<not counted>,,branches,4802269,0.00,,,,
+     1.239021671,<not counted>,,branch-misses,4636253,55.69,,,,
+     1.249177359,<not counted>,,branches,4762906,0.00,,,,
+     1.249177359,<not counted>,,branch-misses,4598251,55.69,,,,
+     1.259334149,<not counted>,,branches,4724183,0.00,,,,
+     1.259334149,<not counted>,,branch-misses,4560867,55.69,,,,
+     1.269484718,<not counted>,,branches,4686085,0.00,,,,
+     1.269484718,<not counted>,,branch-misses,4524085,55.69,,,,
+     1.279660154,<not counted>,,branches,4648596,0.00,,,,
+     1.279660154,<not counted>,,branch-misses,4487893,55.69,,,,
+     1.289818966,<not counted>,,branches,4611702,0.00,,,,
+     1.289818966,<not counted>,,branch-misses,4452275,55.69,,,,
+     1.299966685,<not counted>,,branches,4575390,0.00,,,,
+     1.299966685,<not counted>,,branch-misses,4417217,55.69,,,,
+     1.310121520,<not counted>,,branches,4539644,0.00,,,,
+     1.310121520,<not counted>,,branch-misses,4382708,55.69,,,,
+     1.320270750,<not counted>,,branches,4504453,0.00,,,,
+     1.320270750,<not counted>,,branch-misses,4348733,55.69,,,,
+     1.330423779,<not counted>,,branches,4469804,0.00,,,,
+     1.330423779,<not counted>,,branch-misses,4315281,55.69,,,,
+     1.340579005,<not counted>,,branches,4435683,0.00,,,,
+     1.340579005,<not counted>,,branch-misses,4282340,55.69,,,,
+     1.350745629,<not counted>,,branches,4402079,0.00,,,,
+     1.350745629,<not counted>,,branch-misses,4249898,55.69,,,,
+     1.360896554,<not counted>,,branches,4368981,0.00,,,,
+     1.360896554,<not counted>,,branch-misses,4217944,55.69,,,,
+     1.371034797,<not counted>,,branches,4336377,0.00,,,,
+     1.371034797,<not counted>,,branch-misses,4186467,55.69,,,,
+     1.381171007,<not counted>,,branches,4304255,0.00,,,,
+     1.381171007,<not counted>,,branch-misses,4155456,55.69,,,,
+     1.391321354,<not counted>,,branches,4272607,0.00,,,,
+     1.391321354,<not counted>,,branch-misses,4124901,55.69,,,,
+     1.401476329,<not counted>,,branches,4241420,0.00,,,,
+     1.401476329,<not counted>,,branch-misses,4094793,55.69,,,,
+     1.411640575,<not counted>,,branches,4210685,0.00,,,,
+     1.411640575,<not counted>,,branch-misses,4065120,55.69,,,,
+     1.421785232,<not counted>,,branches,4180392,0.00,,,,
+     1.421785232,<not counted>,,branch-misses,4035875,55.69,,,,
+     1.431928059,<not counted>,,branches,4150532,0.00,,,,
+     1.431928059,<not counted>,,branch-misses,4007047,55.69,,,,
+     1.442074275,<not counted>,,branches,4121096,0.00,,,,
+     1.442074275,<not counted>,,branch-misses,3978628,55.69,,,,
+     1.452209252,<not counted>,,branches,4092074,0.00,,,,
+     1.452209252,<not counted>,,branch-misses,3950610,55.69,,,,
+     1.462386340,<not counted>,,branches,4063458,0.00,,,,
+     1.462386340,<not counted>,,branch-misses,3922983,55.69,,,,
+     1.472534540,<not counted>,,branches,4035239,0.00,,,,
+     1.472534540,<not counted>,,branch-misses,3895740,55.69,,,,
+     1.482694968,<not counted>,,branches,4007410,0.00,,,,
+     1.482694968,<not counted>,,branch-misses,3868873,55.69,,,,
+     1.492841665,<not counted>,,branches,3979962,0.00,,,,
+     1.492841665,<not counted>,,branch-misses,3842374,55.69,,,,
+     1.502984743,<not counted>,,branches,3952888,0.00,,,,
+     1.502984743,<not counted>,,branch-misses,3816235,55.69,,,,
+     1.513136656,<not counted>,,branches,3926179,0.00,,,,
+     1.513136656,<not counted>,,branch-misses,3790450,55.69,,,,
+     1.523282674,735333,,branches,3912428,0.00,,,,
+     1.523282674,31578,,branch-misses,3777610,55.59,1.90,of all branches
+     1.533452681,249667,,branches,3890438,0.00,,,,
+     1.533452681,25784,,branch-misses,3756518,55.46,1.56,of all branches
+     1.543618609,<not counted>,,branches,3864673,0.00,,,,
+     1.543618609,<not counted>,,branch-misses,3731641,55.46,,,,
+     1.553771354,<not counted>,,branches,3839248,0.00,,,,
+     1.553771354,<not counted>,,branch-misses,3707091,55.46,,,,
+     1.563913869,<not counted>,,branches,3814155,0.00,,,,
+     1.563913869,<not counted>,,branch-misses,3682861,55.46,,,,
+     1.574064381,<not counted>,,branches,3789387,0.00,,,,
+     1.574064381,<not counted>,,branch-misses,3658947,55.46,,,,
+     1.584211509,<not counted>,,branches,3764940,0.00,,,,
+     1.584211509,<not counted>,,branch-misses,3635340,55.46,,,,
+     1.594417726,<not counted>,,branches,3740806,0.00,,,,
+     1.594417726,<not counted>,,branch-misses,3612037,55.46,,,,
+     1.604563146,<not counted>,,branches,3716979,0.00,,,,
+     1.604563146,<not counted>,,branch-misses,3589030,55.46,,,,
+     1.614708938,<not counted>,,branches,3693454,0.00,,,,
+     1.614708938,<not counted>,,branch-misses,3566315,55.46,,,,
+     1.624857837,<not counted>,,branches,3670224,0.00,,,,
+     1.624857837,<not counted>,,branch-misses,3543885,55.46,,,,
+     1.635004248,<not counted>,,branches,3647285,0.00,,,,
+     1.635004248,<not counted>,,branch-misses,3521736,55.46,,,,
+     1.645165008,<not counted>,,branches,3624631,0.00,,,,
+     1.645165008,<not counted>,,branch-misses,3499862,55.46,,,,
+     1.655340082,<not counted>,,branches,3602257,0.00,,,,
+     1.655340082,<not counted>,,branch-misses,3478258,55.46,,,,
+     1.665472143,<not counted>,,branches,3580157,0.00,,,,
+     1.665472143,<not counted>,,branch-misses,3456919,55.46,,,,
+     1.675627092,<not counted>,,branches,3558327,0.00,,,,
+     1.675627092,<not counted>,,branch-misses,3435840,55.46,,,,
+     1.685825739,131810,,branches,3542753,0.00,,,,
+     1.685825739,4990,,branch-misses,3421066,55.50,0.33,of all branches
+     1.695998032,1619427,,branches,3578107,0.00,,,,
+     1.695998032,82324,,branch-misses,3457155,55.91,5.46,of all branches
+     1.706155863,581926,,branches,3571772,0.00,,,,
+     1.706155863,15056,,branch-misses,3451745,56.02,1.00,of all branches
+     1.716298422,<not counted>,,branches,3550511,0.00,,,,
+     1.716298422,<not counted>,,branch-misses,3431199,56.02,,,,
+     1.726449399,<not counted>,,branches,3529502,0.00,,,,
+     1.726449399,<not counted>,,branch-misses,3410896,56.02,,,,
+     1.736615472,<not counted>,,branches,3508740,0.00,,,,
+     1.736615472,<not counted>,,branch-misses,3390832,56.02,,,,
+     1.746761104,<not counted>,,branches,3488221,0.00,,,,
+     1.746761104,<not counted>,,branch-misses,3371003,56.02,,,,
+     1.756903370,<not counted>,,branches,3467941,0.00,,,,
+     1.756903370,<not counted>,,branch-misses,3351404,56.02,,,,
+     1.767049059,<not counted>,,branches,3447895,0.00,,,,
+     1.767049059,<not counted>,,branch-misses,3332032,56.02,,,,
+     1.777202190,<not counted>,,branches,3428080,0.00,,,,
+     1.777202190,<not counted>,,branch-misses,3312882,56.02,,,,
+     1.787326134,<not counted>,,branches,3408491,0.00,,,,
+     1.787326134,<not counted>,,branch-misses,3293951,56.02,,,,
+     1.797451548,<not counted>,,branches,3389124,0.00,,,,
+     1.797451548,<not counted>,,branch-misses,3275236,56.02,,,,
+     1.807585822,<not counted>,,branches,3369977,0.00,,,,
+     1.807585822,<not counted>,,branch-misses,3256731,56.02,,,,
+     1.817735127,<not counted>,,branches,3351044,0.00,,,,
+     1.817735127,<not counted>,,branch-misses,3238435,56.02,,,,
+     1.827862758,<not counted>,,branches,3332323,0.00,,,,
+     1.827862758,<not counted>,,branch-misses,3220343,56.02,,,,
+     1.838012545,50864,,branches,3314932,0.00,,,,
+     1.838012545,4489,,branch-misses,3203574,56.01,0.32,of all branches
+     1.848152133,<not counted>,,branches,3296617,0.00,,,,
+     1.848152133,<not counted>,,branch-misses,3185875,56.01,,,,
+     1.858280775,<not counted>,,branches,3278504,0.00,,,,
+     1.858280775,<not counted>,,branch-misses,3168370,56.01,,,,
+     1.868404799,<not counted>,,branches,3260588,0.00,,,,
+     1.868404799,<not counted>,,branch-misses,3151056,56.01,,,,
+     1.878555667,<not counted>,,branches,3242868,0.00,,,,
+     1.878555667,<not counted>,,branch-misses,3133931,56.01,,,,
+     1.888688769,<not counted>,,branches,3225339,0.00,,,,
+     1.888688769,<not counted>,,branch-misses,3116991,56.01,,,,
+     1.898830234,<not counted>,,branches,3207998,0.00,,,,
+     1.898830234,<not counted>,,branch-misses,3100233,56.01,,,,
+     1.908959533,<not counted>,,branches,3190843,0.00,,,,
+     1.908959533,<not counted>,,branch-misses,3083654,56.01,,,,
+     1.919112130,<not counted>,,branches,3173871,0.00,,,,
+     1.919112130,<not counted>,,branch-misses,3067252,56.01,,,,
+     1.929243378,<not counted>,,branches,3157078,0.00,,,,
+     1.929243378,<not counted>,,branch-misses,3051023,56.01,,,,
+     1.939382847,<not counted>,,branches,3140462,0.00,,,,
+     1.939382847,<not counted>,,branch-misses,3034965,56.01,,,,
+     1.949524977,<not counted>,,branches,3124019,0.00,,,,
+     1.949524977,<not counted>,,branch-misses,3019075,56.01,,,,
+     1.959662245,<not counted>,,branches,3107748,0.00,,,,
+     1.959662245,<not counted>,,branch-misses,3003350,56.01,,,,
+     1.969803806,<not counted>,,branches,3091646,0.00,,,,
+     1.969803806,<not counted>,,branch-misses,2987789,56.01,,,,
+     1.979950927,<not counted>,,branches,3075710,0.00,,,,
+     1.979950927,<not counted>,,branch-misses,2972388,56.01,,,,
+     1.990103733,<not counted>,,branches,3059937,0.00,,,,
+     1.990103733,<not counted>,,branch-misses,2957145,56.01,,,,
+     2.000252525,<not counted>,,branches,3044325,0.00,,,,
+     2.000252525,<not counted>,,branch-misses,2942058,56.01,,,,
+     2.010427029,<not counted>,,branches,3028871,0.00,,,,
+     2.010427029,<not counted>,,branch-misses,2927123,56.01,,,,
+     2.020568005,<not counted>,,branches,3013574,0.00,,,,
+     2.020568005,<not counted>,,branch-misses,2912340,56.01,,,,
+     2.030705843,<not counted>,,branches,2998431,0.00,,,,
+     2.030705843,<not counted>,,branch-misses,2897705,56.01,,,,
+     2.040865138,<not counted>,,branches,2983438,0.00,,,,
+     2.040865138,<not counted>,,branch-misses,2883216,56.01,,,,
+     2.051012727,<not counted>,,branches,2968595,0.00,,,,
+     2.051012727,<not counted>,,branch-misses,2868872,56.01,,,,
+     2.061169144,<not counted>,,branches,2953899,0.00,,,,
+     2.061169144,<not counted>,,branch-misses,2854670,56.01,,,,
+     2.071317616,<not counted>,,branches,2939348,0.00,,,,
+     2.071317616,<not counted>,,branch-misses,2840607,56.01,,,,
+     2.081457654,<not counted>,,branches,2924940,0.00,,,,
+     2.081457654,<not counted>,,branch-misses,2826683,56.01,,,,
+     2.091614982,<not counted>,,branches,2910672,0.00,,,,
+     2.091614982,<not counted>,,branch-misses,2812894,56.01,,,,
+     2.101769502,<not counted>,,branches,2896542,0.00,,,,
+     2.101769502,<not counted>,,branch-misses,2799239,56.01,,,,
+     2.111903879,<not counted>,,branches,2882549,0.00,,,,
+     2.111903879,<not counted>,,branch-misses,2785716,56.01,,,,
+     2.122064826,595264,,branches,2878777,0.00,,,,
+     2.122064826,21704,,branch-misses,2788035,56.15,1.80,of all branches
+     2.132222579,1107176,,branches,2883253,0.00,,,,
+     2.132222579,22674,,branch-misses,2792902,56.31,1.88,of all branches
+     2.142470647,19027,,branches,2870827,0.00,,,,
+     2.142470647,2375,,branch-misses,2780907,56.32,0.20,of all branches
+     2.152632749,<not counted>,,branches,2857221,0.00,,,,
+     2.152632749,<not counted>,,branch-misses,2767727,56.32,,,,
+     2.162792763,<not counted>,,branches,2843744,0.00,,,,
+     2.162792763,<not counted>,,branch-misses,2754672,56.32,,,,
+     2.172949949,<not counted>,,branches,2830393,0.00,,,,
+     2.172949949,<not counted>,,branch-misses,2741739,56.32,,,,
+     2.183072817,<not counted>,,branches,2817167,0.00,,,,
+     2.183072817,<not counted>,,branch-misses,2728927,56.32,,,,
+     2.193238141,<not counted>,,branches,2804064,0.00,,,,
+     2.193238141,<not counted>,,branch-misses,2716234,56.32,,,,
+     2.203387625,<not counted>,,branches,2791082,0.00,,,,
+     2.203387625,<not counted>,,branch-misses,2703659,56.32,,,,
+     2.213551832,<not counted>,,branches,2778220,0.00,,,,
+     2.213551832,<not counted>,,branch-misses,2691200,56.32,,,,
+     2.223693308,<not counted>,,branches,2765476,0.00,,,,
+     2.223693308,<not counted>,,branch-misses,2678855,56.32,,,,
+     2.233849532,<not counted>,,branches,2752848,0.00,,,,
+     2.233849532,<not counted>,,branch-misses,2666623,56.32,,,,
+     2.243990484,<not counted>,,branches,2740335,0.00,,,,
+     2.243990484,<not counted>,,branch-misses,2654502,56.32,,,,
+     2.254129760,<not counted>,,branches,2727935,0.00,,,,
+     2.254129760,<not counted>,,branch-misses,2642491,56.32,,,,
+     2.264259407,<not counted>,,branches,2715647,0.00,,,,
+     2.264259407,<not counted>,,branch-misses,2630587,56.32,,,,
+     2.274387830,<not counted>,,branches,2703470,0.00,,,,
+     2.274387830,<not counted>,,branch-misses,2618791,56.32,,,,
+     2.284546225,<not counted>,,branches,2691401,0.00,,,,
+     2.284546225,<not counted>,,branch-misses,2607100,56.32,,,,
+     2.294692400,<not counted>,,branches,2679439,0.00,,,,
+     2.294692400,<not counted>,,branch-misses,2595513,56.32,,,,
+     2.304864387,676558,,branches,2683431,0.00,,,,
+     2.304864387,36062,,branch-misses,2599877,56.47,3.22,of all branches
+     2.315023084,5175948,,branches,2714090,0.00,,,,
+     2.315023084,78991,,branch-misses,2630943,56.87,6.94,of all branches
+     2.325199230,2325539,,branches,2745651,0.00,,,,
+     2.325199230,71349,,branch-misses,2662874,57.28,6.24,of all branches
+     2.335371431,3976680,,branches,2777394,0.00,,,,
+     2.335371431,77624,,branch-misses,2694973,57.68,6.72,of all branches
+     2.345545468,7300427,,branches,2809551,0.00,,,,
+     2.345545468,19986,,branch-misses,2727488,58.07,1.69,of all branches
+     2.357151930,7502824,,branches,2847628,0.00,,,,
+     2.357151930,15680,,branch-misses,2765921,58.52,1.30,of all branches
+     2.367355426,6554091,,branches,2879340,0.00,,,,
+     2.367355426,27815,,branch-misses,2797979,58.90,2.26,of all branches
+     2.377507883,7177105,,branches,2910546,0.00,,,,
+     2.377507883,29163,,branch-misses,2829540,59.28,2.32,of all branches
+     2.387683141,4814948,,branches,2941590,0.00,,,,
+     2.387683141,91479,,branch-misses,2860931,59.65,7.18,of all branches
+     2.397852601,5976515,,branches,2972347,0.00,,,,
+     2.397852601,30743,,branch-misses,2892030,60.01,2.38,of all branches
+     2.408020640,6018442,,branches,3002821,0.00,,,,
+     2.408020640,50144,,branch-misses,2922860,60.37,3.82,of all branches
+     2.418191596,5028905,,branches,3033076,0.00,,,,
+     2.418191596,50837,,branch-misses,2953438,60.72,3.82,of all branches
+     2.428364337,5028807,,branches,3063074,0.00,,,,
+     2.428364337,24287,,branch-misses,2983770,61.06,1.81,of all branches
+     2.438533770,2959914,,branches,3092805,0.00,,,,
+     2.438533770,19904,,branch-misses,3013834,61.40,1.47,of all branches
+     2.448715179,2994166,,branches,3122348,0.00,,,,
+     2.448715179,16913,,branch-misses,3043700,61.73,1.24,of all branches
+     2.458869272,3022915,,branches,3151514,0.00,,,,
+     2.458869272,15842,,branch-misses,3073199,62.05,1.16,of all branches
+     2.469044682,3944238,,branches,3180537,0.00,,,,
+     2.469044682,36179,,branch-misses,3102545,62.38,2.63,of all branches
+     2.479220190,4828447,,branches,3209320,0.00,,,,
+     2.479220190,62984,,branch-misses,3131650,62.69,4.53,of all branches
+     2.489392331,5056628,,branches,3237859,0.00,,,,
+     2.489392331,68088,,branch-misses,3160503,63.00,4.84,of all branches
+     2.499565712,4224456,,branches,3266162,0.00,,,,
+     2.499565712,83539,,branch-misses,3189126,63.31,5.90,of all branches
+     2.509745229,3680445,,branches,3294261,0.00,,,,
+     2.509745229,16653,,branch-misses,3217540,63.61,1.17,of all branches
+     2.520121622,2493023,,branches,3322936,0.00,,,,
+     2.520121622,44122,,branch-misses,3246521,63.91,3.08,of all branches
+     2.530310052,3434655,,branches,3350618,0.00,,,,
+     2.530310052,57242,,branch-misses,3274512,64.20,3.98,of all branches
+     2.540573241,3208180,,branches,3378381,0.00,,,,
+     2.540573241,62995,,branch-misses,3302579,64.49,4.36,of all branches
+     2.550759781,6713689,,branches,3405612,0.00,,,,
+     2.550759781,164851,,branch-misses,3330113,64.77,11.24,of all branches
+     2.560937978,5899312,,branches,3432589,0.00,,,,
+     2.560937978,145637,,branch-misses,3357393,65.04,9.81,of all branches
+     2.571112453,5025418,,branches,3455440,0.00,,,,
+     2.571112453,122111,,branch-misses,3380542,65.29,8.15,of all branches
+     2.581283099,4513839,,branches,3481980,0.00,,,,
+     2.581283099,40368,,branch-misses,3407379,65.56,2.67,of all branches
+     2.591451920,5207886,,branches,3508306,0.00,,,,
+     2.591451920,45469,,branch-misses,3433997,65.82,2.98,of all branches
+     2.601621522,5609433,,branches,3534424,0.00,,,,
+     2.601621522,47236,,branch-misses,3460409,66.08,3.07,of all branches
+     2.612118048,5818882,,branches,3560366,0.00,,,,
+     2.612118048,49082,,branch-misses,3487890,66.35,3.15,of all branches
+     2.622291486,4185612,,branches,3587341,0.00,,,,
+     2.622291486,34454,,branch-misses,3513902,66.60,2.20,of all branches
+     2.632467680,3846645,,branches,3612884,0.00,,,,
+     2.632467680,31850,,branch-misses,3539726,66.85,2.02,of all branches
+     2.642635786,3835297,,branches,3638188,0.00,,,,
+     2.642635786,24249,,branch-misses,3565316,67.09,1.53,of all branches
+     2.652809295,4702508,,branches,3663322,0.00,,,,
+     2.652809295,17891,,branch-misses,3590731,67.34,1.12,of all branches
+     2.662984562,4449023,,branches,3688238,0.00,,,,
+     2.662984562,20553,,branch-misses,3615955,67.57,1.28,of all branches
+     2.673177145,3229079,,branches,3713094,0.00,,,,
+     2.673177145,11014,,branch-misses,3641056,67.81,0.68,of all branches
+     2.683354783,3095406,,branches,3737673,0.00,,,,
+     2.683354783,14372,,branch-misses,3665907,68.04,0.89,of all branches
+     2.693521972,4029443,,branches,3762027,0.00,,,,
+     2.693521972,14268,,branch-misses,3690534,68.27,0.88,of all branches
+     2.703708846,5899890,,branches,3786270,0.00,,,,
+     2.703708846,18783,,branch-misses,3715046,68.49,1.14,of all branches
+     2.714191016,3712756,,branches,3811438,0.00,,,,
+     2.714191016,22785,,branch-misses,3740484,68.72,1.38,of all branches
+     2.724368435,4281866,,branches,3835283,0.00,,,,
+     2.724368435,14588,,branch-misses,3764593,68.94,0.88,of all branches
+     2.734550350,3818109,,branches,3858963,0.00,,,,
+     2.734550350,30463,,branch-misses,3788536,69.15,1.82,of all branches
+     2.744728305,4407891,,branches,3882384,0.00,,,,
+     2.744728305,15627,,branch-misses,3812219,69.37,0.93,of all branches
+     2.754899341,4996121,,branches,3905672,0.00,,,,
+     2.754899341,15405,,branch-misses,3835770,69.58,0.91,of all branches
+     2.765076052,4955760,,branches,3928809,0.00,,,,
+     2.765076052,15650,,branch-misses,3859167,69.78,0.92,of all branches
+     2.775259388,3806538,,branches,3951815,0.00,,,,
+     2.775259388,11185,,branch-misses,3882418,69.99,0.65,of all branches
+     2.785432786,2580030,,branches,3974600,0.00,,,,
+     2.785432786,25057,,branch-misses,3905460,70.19,1.46,of all branches
+     2.795587537,3025310,,branches,3997082,0.00,,,,
+     2.795587537,9376,,branch-misses,3928200,70.38,0.54,of all branches
+     2.805769483,3014217,,branches,4019573,0.00,,,,
+     2.805769483,10651,,branch-misses,3950940,70.58,0.62,of all branches
+     2.815937263,3031028,,branches,4041846,0.00,,,,
+     2.815937263,10052,,branch-misses,3973462,70.77,0.58,of all branches
+     2.826114188,3039541,,branches,4063991,0.00,,,,
+     2.826114188,10296,,branch-misses,3995855,70.96,0.59,of all branches
+     2.836284862,3025744,,branches,4085959,0.00,,,,
+     2.836284862,9168,,branch-misses,4018066,71.15,0.53,of all branches
+     2.846448125,3438649,,branches,4107741,0.00,,,,
+     2.846448125,10453,,branch-misses,4040090,71.34,0.60,of all branches
+     2.856617743,4225956,,branches,4129388,0.00,,,,
+     2.856617743,13417,,branch-misses,4061980,71.52,0.76,of all branches
+     2.866784334,3125261,,branches,4150868,0.00,,,,
+     2.866784334,10660,,branch-misses,4083703,71.70,0.61,of all branches
+     2.877617804,3334885,,branches,4174566,0.00,,,,
+     2.877617804,11025,,branch-misses,4107637,71.89,0.62,of all branches
+     2.888074327,3142506,,branches,4195762,0.00,,,,
+     2.888074327,11231,,branch-misses,4130068,72.07,0.63,of all branches
+     2.898244185,3202185,,branches,4217793,0.00,,,,
+     2.898244185,11144,,branch-misses,4151335,72.25,0.63,of all branches
+     2.908417160,4206942,,branches,4238687,0.00,,,,
+     2.908417160,14335,,branch-misses,4172462,72.42,0.80,of all branches
+     2.918585989,5270785,,branches,4259425,0.00,,,,
+     2.918585989,17742,,branch-misses,4193429,72.59,0.99,of all branches
+     2.928965928,3253170,,branches,4280748,0.00,,,,
+     2.928965928,13285,,branch-misses,4214982,72.76,0.74,of all branches
+     2.939144901,4234331,,branches,4301226,0.00,,,,
+     2.939144901,15845,,branch-misses,4235689,72.93,0.88,of all branches
+     2.949325243,2890591,,branches,4321442,0.00,,,,
+     2.949325243,11147,,branch-misses,4256138,73.09,0.61,of all branches
+     2.959503954,2110256,,branches,4341639,0.00,,,,
+     2.959503954,43117,,branch-misses,4276560,73.25,2.38,of all branches
+     2.969677220,3032455,,branches,4361681,0.00,,,,
+     2.969677220,11563,,branch-misses,4296822,73.41,0.64,of all branches
+     2.980333407,3479070,,branches,4383184,0.00,,,,
+     2.980333407,13457,,branch-misses,4318541,73.58,0.74,of all branches
+     2.990512729,5079318,,branches,4402962,0.00,,,,
+     2.990512729,16953,,branch-misses,4338544,73.73,0.92,of all branches
+     3.000687736,5110753,,branches,4422594,0.00,,,,
+     3.000687736,16173,,branch-misses,4358393,73.89,0.88,of all branches
+     3.010868423,3041856,,branches,4442111,0.00,,,,
+     3.010868423,12205,,branch-misses,4378130,74.04,0.66,of all branches
+     3.021050946,2795157,,branches,4461454,0.00,,,,
+     3.021050946,10792,,branch-misses,4397690,74.19,0.58,of all branches
+     3.031227489,3693113,,branches,4480695,0.00,,,,
+     3.031227489,12787,,branch-misses,4417145,74.34,0.69,of all branches
+     3.041430409,4433412,,branches,4499839,0.00,,,,
+     3.041430409,15790,,branch-misses,4436501,74.48,0.85,of all branches
+     3.051607834,3957803,,branches,4518765,0.00,,,,
+     3.051607834,14936,,branch-misses,4455645,74.63,0.80,of all branches
+     3.061800626,3112795,,branches,4537681,0.00,,,,
+     3.061800626,13326,,branch-misses,4474768,74.77,0.71,of all branches
+     3.071976137,1662749,,branches,4552986,0.00,,,,
+     3.071976137,61060,,branch-misses,4490282,74.90,3.25,of all branches
+     3.082157452,3407343,,branches,4571569,0.00,,,,
+     3.082157452,27868,,branch-misses,4509071,75.04,1.48,of all branches
+     3.092338416,3050140,,branches,4590078,0.00,,,,
+     3.092338416,8021,,branch-misses,4527787,75.18,0.42,of all branches
+     3.102518399,3084356,,branches,4608464,0.00,,,,
+     3.102518399,10097,,branch-misses,4546379,75.32,0.53,of all branches
+     3.112694322,3506669,,branches,4626715,0.00,,,,
+     3.112694322,12766,,branch-misses,4564835,75.46,0.67,of all branches
+     3.122874646,2947544,,branches,4644865,0.00,,,,
+     3.122874646,9339,,branch-misses,4583185,75.59,0.49,of all branches
+     3.133045208,3284874,,branches,4662863,0.00,,,,
+     3.133045208,10364,,branch-misses,4601384,75.72,0.54,of all branches
+     3.143989307,3331360,,branches,4683208,0.00,,,,
+     3.143989307,11970,,branch-misses,4621926,75.86,0.63,of all branches
+     3.154174632,3433580,,branches,4701007,0.00,,,,
+     3.154174632,11456,,branch-misses,4639929,76.00,0.60,of all branches
+     3.166707812,4602270,,branches,4726271,0.00,,,,
+     3.166707812,15441,,branch-misses,4665389,76.15,0.80,of all branches
+     3.176888463,3356071,,branches,4743810,0.00,,,,
+     3.176888463,12186,,branch-misses,4683122,76.28,0.63,of all branches
+     3.187080902,3072252,,branches,4761241,0.00,,,,
+     3.187080902,12093,,branch-misses,4700778,76.41,0.63,of all branches
+     3.197257067,2980253,,branches,4778570,0.00,,,,
+     3.197257067,9667,,branch-misses,4718270,76.53,0.50,of all branches
+     3.207427090,3020917,,branches,4795738,0.00,,,,
+     3.207427090,11556,,branch-misses,4735630,76.65,0.60,of all branches
+     3.217604662,3060763,,branches,4812823,0.00,,,,
+     3.217604662,12497,,branch-misses,4752906,76.78,0.64,of all branches
+     3.227774803,3045707,,branches,4829716,0.00,,,,
+     3.227774803,11601,,branch-misses,4769988,76.90,0.60,of all branches
+     3.238257434,3360101,,branches,4847506,0.00,,,,
+     3.238257434,11390,,branch-misses,4787960,77.02,0.58,of all branches
+     3.249682536,3459722,,branches,4868130,0.00,,,,
+     3.249682536,14372,,branch-misses,4808776,77.15,0.74,of all branches
+     3.259848442,3528743,,branches,4884736,0.00,,,,
+     3.259848442,12669,,branch-misses,4825568,77.27,0.65,of all branches
+     3.270016292,4940182,,branches,4901244,0.00,,,,
+     3.270016292,16751,,branch-misses,4842262,77.38,0.85,of all branches
+     3.280179007,3249429,,branches,4917574,0.00,,,,
+     3.280179007,13854,,branch-misses,4858772,77.50,0.70,of all branches
+     3.290349841,3638433,,branches,4933884,0.00,,,,
+     3.290349841,12841,,branch-misses,4875268,77.61,0.65,of all branches
+     3.300528005,1637113,,branches,4949968,0.00,,,,
+     3.300528005,75453,,branch-misses,4891571,77.72,3.82,of all branches
+     3.310819075,3001959,,branches,4966446,0.00,,,,
+     3.310819075,10976,,branch-misses,4908194,77.83,0.55,of all branches
+     3.320992582,3202043,,branches,4982422,0.00,,,,
+     3.320992582,12519,,branch-misses,4924347,77.94,0.63,of all branches
+     3.331169938,3698632,,branches,4998351,0.00,,,,
+     3.331169938,14158,,branch-misses,4940457,78.05,0.71,of all branches
+     3.341334196,3157724,,branches,5014150,0.00,,,,
+     3.341334196,12914,,branch-misses,4956432,78.16,0.65,of all branches
+     3.351511133,3089427,,branches,5029885,0.00,,,,
+     3.351511133,13316,,branch-misses,4972345,78.27,0.67,of all branches
+     3.361691229,3227352,,branches,5045542,0.00,,,,
+     3.361691229,13491,,branch-misses,4988173,78.37,0.67,of all branches
+     3.371874726,5085515,,branches,5061112,0.00,,,,
+     3.371874726,17976,,branch-misses,5003916,78.48,0.89,of all branches
+     3.382053353,3294670,,branches,5074730,0.00,,,,
+     3.382053353,13628,,branch-misses,5017709,78.57,0.68,of all branches
+     3.392214101,3149686,,branches,5090052,0.00,,,,
+     3.392214101,14436,,branch-misses,5033200,78.68,0.72,of all branches
+     3.402394568,3417128,,branches,5105281,0.00,,,,
+     3.402394568,12959,,branch-misses,5048602,78.78,0.64,of all branches
+     3.412573576,2916165,,branches,5120471,0.00,,,,
+     3.412573576,11671,,branch-misses,5063961,78.88,0.58,of all branches
+     3.422755071,3011279,,branches,5135529,0.00,,,,
+     3.422755071,11674,,branch-misses,5079189,78.98,0.58,of all branches
+     3.432931158,3302631,,branches,5150532,0.00,,,,
+     3.432931158,11783,,branch-misses,5094357,79.08,0.58,of all branches
+     3.443097364,4983250,,branches,5165412,0.00,,,,
+     3.443097364,16418,,branch-misses,5109404,79.18,0.81,of all branches
+     3.453263880,2920112,,branches,5180208,0.00,,,,
+     3.453263880,12075,,branch-misses,5124365,79.27,0.59,of all branches
+     3.463442812,2909661,,branches,5194957,0.00,,,,
+     3.463442812,13548,,branch-misses,5139275,79.37,0.66,of all branches
+     3.473582779,3127542,,branches,5209498,0.00,,,,
+     3.473582779,11099,,branch-misses,5153981,79.46,0.54,of all branches
+     3.483731130,4704994,,branches,5223975,0.00,,,,
+     3.483731130,16631,,branch-misses,5168626,79.56,0.81,of all branches
+     3.495450871,3498536,,branches,5242813,0.00,,,,
+     3.495450871,15171,,branch-misses,5187627,79.66,0.74,of all branches
+     3.505628880,3153730,,branches,5257206,0.00,,,,
+     3.505628880,13684,,branch-misses,5202177,79.76,0.66,of all branches
+     3.515823696,<not counted>,,branches,5241923,0.00,,,,
+     3.515823696,14313,,branch-misses,5216596,79.85,0.70,of all branches
+     3.526002106,4897052,,branches,5285635,0.00,,,,
+     3.526002106,16075,,branch-misses,5230926,79.94,0.78,of all branches
+     3.536168198,3719905,,branches,5299740,0.00,,,,
+     3.536168198,12985,,branch-misses,5245188,80.03,0.63,of all branches
+     3.546355092,3003215,,branches,5313819,0.00,,,,
+     3.546355092,13142,,branch-misses,5259428,80.12,0.63,of all branches
+     3.556541502,1095449,,branches,5327818,0.00,,,,
+     3.556541502,103230,,branch-misses,5273585,80.21,4.99,of all branches
+     3.566745399,2898138,,branches,5341789,0.00,,,,
+     3.566745399,53489,,branch-misses,5287710,80.29,2.58,of all branches
+     3.576907072,3716324,,branches,5354732,0.00,,,,
+     3.576907072,14375,,branch-misses,5300806,80.38,0.69,of all branches
+     3.587078304,3446209,,branches,5368453,0.00,,,,
+     3.587078304,12364,,branch-misses,5314680,80.47,0.59,of all branches
+     3.597251703,3426357,,branches,5382107,0.00,,,,
+     3.597251703,13714,,branch-misses,5328483,80.55,0.66,of all branches
+     3.607428953,3938459,,branches,5395686,0.00,,,,
+     3.607428953,13951,,branch-misses,5342218,80.64,0.67,of all branches
+     3.617589793,3387887,,branches,5409146,0.00,,,,
+     3.617589793,13253,,branch-misses,5355828,80.72,0.63,of all branches
+     3.627771517,3450016,,branches,5422586,0.00,,,,
+     3.627771517,13801,,branch-misses,5369420,80.80,0.66,of all branches
+     3.638248118,3931185,,branches,5436780,0.00,,,,
+     3.638248118,14666,,branch-misses,5383764,80.89,0.70,of all branches
+     3.648458018,3108092,,branches,5450126,0.00,,,,
+     3.648458018,10385,,branch-misses,5397280,80.97,0.49,of all branches
+     3.658670637,3148770,,branches,5463450,0.00,,,,
+     3.658670637,11444,,branch-misses,5410731,81.05,0.54,of all branches
+     3.668842353,3096704,,branches,5476564,0.00,,,,
+     3.668842353,13336,,branch-misses,5423991,81.13,0.63,of all branches
+     3.679030597,3778258,,branches,5489658,0.00,,,,
+     3.679030597,14307,,branch-misses,5437227,81.21,0.68,of all branches
+     3.689184129,3951940,,branches,5502572,0.00,,,,
+     3.689184129,14451,,branch-misses,5450289,81.29,0.68,of all branches
+     3.699503585,3235650,,branches,5515879,0.00,,,,
+     3.699503585,13539,,branch-misses,5463739,81.37,0.64,of all branches
+     3.709700244,4138025,,branches,5528773,0.00,,,,
+     3.709700244,16756,,branch-misses,5476777,81.45,0.79,of all branches
+     3.719853909,4516070,,branches,5541477,0.00,,,,
+     3.719853909,15076,,branch-misses,5489624,81.52,0.71,of all branches
+     3.730040136,4441888,,branches,5554205,0.00,,,,
+     3.730040136,15333,,branch-misses,5502491,81.60,0.72,of all branches
+     3.740189278,4914585,,branches,5566756,0.00,,,,
+     3.740189278,16046,,branch-misses,5515184,81.68,0.75,of all branches
+     3.750400157,4352469,,branches,5579387,0.00,,,,
+     3.750400157,15400,,branch-misses,5527977,81.75,0.71,of all branches
+     3.760622176,3802886,,branches,5592019,0.00,,,,
+     3.760622176,14670,,branch-misses,5540731,81.83,0.68,of all branches
+     3.770783033,3243618,,branches,5604406,0.00,,,,
+     3.770783033,13157,,branch-misses,5553253,81.90,0.61,of all branches
+     3.780946980,4453327,,branches,5616680,0.00,,,,
+     3.780946980,15573,,branch-misses,5565667,81.97,0.72,of all branches
+     3.791121789,3072831,,branches,5628962,0.00,,,,
+     3.791121789,12402,,branch-misses,5578087,82.05,0.57,of all branches
+     3.801295098,3291157,,branches,5641182,0.00,,,,
+     3.801295098,14154,,branch-misses,5590441,82.12,0.65,of all branches
+     3.811450234,3601499,,branches,5653276,0.00,,,,
+     3.811450234,13561,,branch-misses,5602675,82.19,0.62,of all branches
+     3.821623568,5233432,,branches,5665364,0.00,,,,
+     3.821623568,18639,,branch-misses,5614897,82.26,0.85,of all branches
+     3.831821218,5548588,,branches,5677446,0.00,,,,
+     3.831821218,18418,,branch-misses,5627116,82.33,0.84,of all branches
+     3.842007207,4865600,,branches,5689440,0.00,,,,
+     3.842007207,16056,,branch-misses,5639240,82.40,0.73,of all branches
+     3.852160845,4341222,,branches,5701275,0.00,,,,
+     3.852160845,15473,,branch-misses,5651211,82.47,0.70,of all branches
+     3.862331340,5636684,,branches,5713099,0.00,,,,
+     3.862331340,18760,,branch-misses,5663167,82.54,0.85,of all branches
+     3.872491125,5613701,,branches,5724831,0.00,,,,
+     3.872491125,20106,,branch-misses,5675030,82.61,0.90,of all branches
+     3.882660047,5523841,,branches,5736530,0.00,,,,
+     3.882660047,19208,,branch-misses,5686856,82.67,0.86,of all branches
+     3.892821425,5685838,,branches,5748142,0.00,,,,
+     3.892821425,18876,,branch-misses,5698600,82.74,0.84,of all branches
+     3.902985716,2809295,,branches,5759701,0.00,,,,
+     3.902985716,9595,,branch-misses,5710289,82.81,0.43,of all branches
+     3.913145757,1335706,,branches,5771178,0.00,,,,
+     3.913145757,140372,,branch-misses,5721905,82.87,6.26,of all branches
+     3.923316008,5403973,,branches,5782644,0.00,,,,
+     3.923316008,17674,,branch-misses,5733489,82.94,0.79,of all branches
+     3.933475610,5742315,,branches,5794016,0.00,,,,
+     3.933475610,16816,,branch-misses,5744986,83.00,0.74,of all branches
+     3.943605194,5888016,,branches,5805246,0.00,,,,
+     3.943605194,13216,,branch-misses,5756344,83.07,0.58,of all branches
+     3.953735310,5698454,,branches,5816419,0.00,,,,
+     3.953735310,15192,,branch-misses,5767643,83.13,0.67,of all branches
+     3.963985209,5785006,,branches,5827846,0.00,,,,
+     3.963985209,16644,,branch-misses,5779195,83.20,0.73,of all branches
+     3.974114663,5727429,,branches,5838899,0.00,,,,
+     3.974114663,16607,,branch-misses,5790375,83.26,0.72,of all branches
+     3.984269511,5049124,,branches,5849961,0.00,,,,
+     3.984269511,16628,,branch-misses,5801565,83.32,0.72,of all branches
+     3.994448591,5425831,,branches,5861036,0.00,,,,
+     3.994448591,17919,,branch-misses,5812760,83.38,0.78,of all branches
+     4.004607116,5682515,,branches,5872001,0.00,,,,
+     4.004607116,17594,,branch-misses,5823846,83.45,0.76,of all branches
+     4.014749456,5636847,,branches,5882859,0.00,,,,
+     4.014749456,17286,,branch-misses,5834832,83.51,0.74,of all branches
+     4.024932571,5245542,,branches,5893776,0.00,,,,
+     4.024932571,16204,,branch-misses,5845868,83.57,0.69,of all branches
+     4.035081136,5653311,,branches,5904549,0.00,,,,
+     4.035081136,17028,,branch-misses,5856761,83.63,0.73,of all branches
+     4.045225061,4813201,,branches,5915249,0.00,,,,
+     4.045225061,16028,,branch-misses,5867586,83.69,0.68,of all branches
+     4.055360942,5372156,,branches,5925882,0.00,,,,
+     4.055360942,17626,,branch-misses,5878335,83.75,0.75,of all branches
+     4.065504247,5524482,,branches,5936478,0.00,,,,
+     4.065504247,18131,,branch-misses,5889051,83.81,0.77,of all branches
+     4.075668832,5518344,,branches,5947073,0.00,,,,
+     4.075668832,19276,,branch-misses,5899765,83.87,0.81,of all branches
+     4.085813257,5709617,,branches,5957569,0.00,,,,
+     4.085813257,18658,,branch-misses,5910377,83.92,0.78,of all branches
+     4.096037384,5761881,,branches,5968206,0.00,,,,
+     4.096037384,18483,,branch-misses,5921132,83.98,0.77,of all branches
+     4.106189101,5753915,,branches,5978612,0.00,,,,
+     4.106189101,17919,,branch-misses,5931655,84.04,0.75,of all branches
+     4.116332686,5534561,,branches,5988939,0.00,,,,
+     4.116332686,18052,,branch-misses,5942103,84.10,0.75,of all branches
+     4.126520305,5386671,,branches,5999334,0.00,,,,
+     4.126520305,16926,,branch-misses,5952613,84.15,0.70,of all branches
+     4.136686212,4527826,,branches,6009622,0.00,,,,
+     4.136686212,14139,,branch-misses,5963014,84.21,0.58,of all branches
+     4.146826090,5790804,,branches,6019796,0.00,,,,
+     4.146826090,13185,,branch-misses,5973302,84.26,0.54,of all branches
+     4.156983699,5590988,,branches,6029962,0.00,,,,
+     4.156983699,18766,,branch-misses,5983583,84.32,0.77,of all branches
+     4.167120998,5666589,,branches,6040026,0.00,,,,
+     4.167120998,17157,,branch-misses,5993761,84.37,0.70,of all branches
+     4.177278343,5509331,,branches,6050092,0.00,,,,
+     4.177278343,17741,,branch-misses,6003940,84.43,0.72,of all branches
+     4.187433488,5532785,,branches,6060098,0.00,,,,
+     4.187433488,17280,,branch-misses,6014062,84.48,0.70,of all branches
+     4.197604067,5629097,,branches,6070105,0.00,,,,
+     4.197604067,18077,,branch-misses,6024177,84.54,0.73,of all branches
+     4.207757285,4905274,,branches,6080012,0.00,,,,
+     4.207757285,16645,,branch-misses,6034197,84.59,0.67,of all branches
+     4.218120139,4647507,,branches,6090378,0.00,,,,
+     4.218120139,17032,,branch-misses,6044677,84.64,0.69,of all branches
+     4.228299656,5470911,,branches,6100253,0.00,,,,
+     4.228299656,18444,,branch-misses,6054663,84.70,0.74,of all branches
+     4.238474298,4841503,,branches,6110071,0.00,,,,
+     4.238474298,17646,,branch-misses,6064589,84.75,0.71,of all branches
+     4.248642931,2350232,,branches,6119827,0.00,,,,
+     4.248642931,9148,,branch-misses,6074454,84.80,0.37,of all branches
+     4.258816325,1570608,,branches,6129544,0.00,,,,
+     4.258816325,178994,,branch-misses,6084282,84.85,7.19,of all branches
+     4.268986841,4371707,,branches,6139176,0.00,,,,
+     4.268986841,114022,,branch-misses,6094020,84.90,4.58,of all branches
+     4.279141141,5698733,,branches,6148763,0.00,,,,
+     4.279141141,17836,,branch-misses,6103710,84.96,0.71,of all branches
+     4.289279235,5635848,,branches,6158258,0.00,,,,
+     4.289279235,17000,,branch-misses,6113314,85.01,0.68,of all branches
+     4.299419025,5763066,,branches,6167717,0.00,,,,
+     4.299419025,17749,,branch-misses,6122878,85.06,0.71,of all branches
+     4.309551747,5629102,,branches,6177110,0.00,,,,
+     4.309551747,18152,,branch-misses,6132379,85.11,0.72,of all branches
+     4.319687353,5662341,,branches,6186470,0.00,,,,
+     4.319687353,18159,,branch-misses,6141842,85.16,0.72,of all branches
+     4.329840126,3133758,,branches,6195810,0.00,,,,
+     4.329840126,12000,,branch-misses,6151298,85.20,0.47,of all branches
+     4.340098568,5466084,,branches,6205370,0.00,,,,
+     4.340098568,17235,,branch-misses,6160961,85.25,0.68,of all branches
+     4.350274222,5593509,,branches,6214694,0.00,,,,
+     4.350274222,17187,,branch-misses,6170386,85.30,0.68,of all branches
+     4.360438028,5609233,,branches,6223942,0.00,,,,
+     4.360438028,17819,,branch-misses,6179736,85.35,0.70,of all branches
+     4.370583094,5564045,,branches,6233104,0.00,,,,
+     4.370583094,18664,,branch-misses,6189001,85.40,0.73,of all branches
+     4.380765151,5034333,,branches,6242308,0.00,,,,
+     4.380765151,16184,,branch-misses,6198308,85.45,0.63,of all branches
+     4.390923521,5504552,,branches,6251416,0.00,,,,
+     4.390923521,17935,,branch-misses,6207517,85.49,0.70,of all branches
+     4.401071103,5669859,,branches,6260455,0.00,,,,
+     4.401071103,17942,,branch-misses,6216658,85.54,0.70,of all branches
+     4.411222791,5573042,,branches,6269459,0.00,,,,
+     4.411222791,17491,,branch-misses,6225765,85.59,0.68,of all branches
+     4.421374342,5661790,,branches,6278426,0.00,,,,
+     4.421374342,17673,,branch-misses,6234831,85.63,0.68,of all branches
+     4.431515718,5025792,,branches,6287319,0.00,,,,
+     4.431515718,15742,,branch-misses,6243829,85.68,0.61,of all branches
+     4.441696502,5474427,,branches,6296275,0.00,,,,
+     4.441696502,17935,,branch-misses,6252880,85.73,0.69,of all branches
+     4.452003637,5741119,,branches,6305473,0.00,,,,
+     4.452003637,18144,,branch-misses,6262178,85.77,0.69,of all branches
+     4.462156587,5555268,,branches,6314277,0.00,,,,
+     4.462156587,17822,,branch-misses,6271081,85.82,0.68,of all branches
+     4.472292899,5653050,,branches,6323003,0.00,,,,
+     4.472292899,17410,,branch-misses,6279905,85.86,0.66,of all branches
+     4.482438892,5664166,,branches,6331710,0.00,,,,
+     4.482438892,17217,,branch-misses,6288710,85.91,0.65,of all branches
+     4.492587856,5689328,,branches,6340384,0.00,,,,
+     4.492587856,17391,,branch-misses,6297482,85.95,0.66,of all branches
+     4.502741788,5544598,,branches,6349031,0.00,,,,
+     4.502741788,17216,,branch-misses,6306226,86.00,0.65,of all branches
+     4.512893540,5631742,,branches,6357633,0.00,,,,
+     4.512893540,16834,,branch-misses,6314926,86.04,0.63,of all branches
+     4.523029399,5690356,,branches,6366157,0.00,,,,
+     4.523029399,17013,,branch-misses,6323548,86.08,0.64,of all branches
+     4.533195410,4364240,,branches,6374716,0.00,,,,
+     4.533195410,16074,,branch-misses,6332202,86.13,0.60,of all branches
+     4.543342329,5596817,,branches,6383194,0.00,,,,
+     4.543342329,17943,,branch-misses,6340775,86.17,0.67,of all branches
+     4.553488277,5009285,,branches,6391624,0.00,,,,
+     4.553488277,17511,,branch-misses,6349304,86.21,0.65,of all branches
+     4.563651451,3741948,,branches,6400059,0.00,,,,
+     4.563651451,14504,,branch-misses,6357835,86.25,0.54,of all branches
+     4.573806594,5487031,,branches,6408445,0.00,,,,
+     4.573806594,18086,,branch-misses,6366311,86.30,0.67,of all branches
+     4.584030960,5382215,,branches,6416937,0.00,,,,
+     4.584030960,16283,,branch-misses,6374901,86.34,0.61,of all branches
+     4.594181921,5543428,,branches,6425239,0.00,,,,
+     4.594181921,15184,,branch-misses,6383292,86.38,0.56,of all branches
+     4.604338042,5636894,,branches,6433513,0.00,,,,
+     4.604338042,18273,,branch-misses,6391658,86.42,0.68,of all branches
+     4.614461529,5522703,,branches,6441676,0.00,,,,
+     4.614461529,16617,,branch-misses,6399913,86.46,0.61,of all branches
+     4.624572457,5585247,,branches,6449775,0.00,,,,
+     4.624572457,18478,,branch-misses,6408105,86.50,0.68,of all branches
+     4.634731389,4119198,,branches,6457938,0.00,,,,
+     4.634731389,16265,,branch-misses,6416364,86.55,0.60,of all branches
+     4.644897155,5450959,,branches,6466084,0.00,,,,
+     4.644897155,18427,,branch-misses,6424603,86.59,0.68,of all branches
+     4.655066911,5673661,,branches,6474208,0.00,,,,
+     4.655066911,17503,,branch-misses,6432816,86.63,0.64,of all branches
+     4.665227775,5634690,,branches,6482275,0.00,,,,
+     4.665227775,17035,,branch-misses,6440972,86.67,0.62,of all branches
+     4.675389603,5334384,,branches,6490305,0.00,,,,
+     4.675389603,17764,,branch-misses,6449095,86.71,0.65,of all branches
+     4.685575800,5586550,,branches,6498360,0.00,,,,
+     4.685575800,18667,,branch-misses,6457237,86.75,0.68,of all branches
+     4.695741193,5450417,,branches,6506332,0.00,,,,
+     4.695741193,17298,,branch-misses,6465297,86.78,0.63,of all branches
+     4.706034267,5652603,,branches,6514545,0.00,,,,
+     4.706034267,18994,,branch-misses,6473600,86.82,0.69,of all branches
+     4.716186622,5642404,,branches,6522419,0.00,,,,
+     4.716186622,17073,,branch-misses,6481561,86.86,0.62,of all branches
+     4.726333779,5633950,,branches,6530242,0.00,,,,
+     4.726333779,18779,,branch-misses,6489476,86.90,0.68,of all branches
+     4.736505228,4981512,,branches,6538085,0.00,,,,
+     4.736505228,16460,,branch-misses,6497410,86.94,0.59,of all branches
+     4.746690347,3065360,,branches,6545926,0.00,,,,
+     4.746690347,13030,,branch-misses,6505340,86.98,0.47,of all branches
+     4.756864688,3437886,,branches,6553715,0.00,,,,
+     4.756864688,12120,,branch-misses,6513213,87.02,0.44,of all branches
+     4.767052946,2970998,,branches,6561496,0.00,,,,
+     4.767052946,12212,,branch-misses,6521081,87.05,0.44,of all branches
+     4.777253670,4774699,,branches,6569273,0.00,,,,
+     4.777253670,15780,,branch-misses,6528943,87.09,0.57,of all branches
+     4.787419038,6082254,,branches,6576937,0.00,,,,
+     4.787419038,14913,,branch-misses,6536695,87.13,0.53,of all branches
+     4.797612081,5014884,,branches,6584636,0.00,,,,
+     4.797612081,22838,,branch-misses,6544475,87.17,0.82,of all branches
+     4.807762172,5000731,,branches,6592201,0.00,,,,
+     4.807762172,21628,,branch-misses,6552128,87.20,0.77,of all branches
+     4.817973210,4788346,,branches,6599870,0.00,,,,
+     4.817973210,27927,,branch-misses,6559880,87.24,0.99,of all branches
+     4.828140854,4996941,,branches,6607416,0.00,,,,
+     4.828140854,14838,,branch-misses,6567508,87.28,0.53,of all branches
+     4.838298366,4492695,,branches,6614903,0.00,,,,
+     4.838298366,14637,,branch-misses,6575080,87.31,0.52,of all branches
+     4.848456718,4145197,,branches,6622363,0.00,,,,
+     4.848456718,41104,,branch-misses,6582623,87.35,1.46,of all branches
+     4.858619282,4928335,,branches,6629800,0.00,,,,
+     4.858619282,12883,,branch-misses,6590143,87.38,0.46,of all branches
+     4.868794111,4414195,,branches,6637230,0.00,,,,
+     4.868794111,15101,,branch-misses,6597657,87.42,0.53,of all branches
+     4.878942954,4214961,,branches,6644576,0.00,,,,
+     4.878942954,13928,,branch-misses,6605085,87.46,0.49,of all branches
+     4.889165404,4724559,,branches,6652044,0.00,,,,
+     4.889165404,15993,,branch-misses,6612637,87.49,0.56,of all branches
+     4.899333769,2606016,,branches,6659365,0.00,,,,
+     4.899333769,50206,,branch-misses,6620042,87.53,1.77,of all branches
+     4.909495157,4423517,,branches,6666650,0.00,,,,
+     4.909495157,35249,,branch-misses,6627405,87.56,1.24,of all branches
+     4.919631402,4882488,,branches,6673848,0.00,,,,
+     4.919631402,13161,,branch-misses,6634684,87.59,0.46,of all branches
+     4.929769160,4945713,,branches,6681019,0.00,,,,
+     4.929769160,13261,,branch-misses,6641936,87.63,0.47,of all branches
+     4.939900635,4825417,,branches,6688146,0.00,,,,
+     4.939900635,15083,,branch-misses,6649145,87.66,0.53,of all branches
+     4.950034229,4783795,,branches,6695248,0.00,,,,
+     4.950034229,16552,,branch-misses,6656328,87.70,0.58,of all branches
+     4.960176519,4739548,,branches,6702338,0.00,,,,
+     4.960176519,17290,,branch-misses,6663500,87.73,0.61,of all branches
+     4.970418999,4825959,,branches,6709607,0.00,,,,
+     4.970418999,15593,,branch-misses,6670847,87.77,0.55,of all branches
+     4.980571446,4627345,,branches,6716660,0.00,,,,
+     4.980571446,16201,,branch-misses,6677981,87.80,0.57,of all branches
+     4.990742590,3321651,,branches,6723724,0.00,,,,
+     4.990742590,12122,,branch-misses,6685124,87.83,0.42,of all branches
+     5.000889171,4376293,,branches,6730713,0.00,,,,
+     5.000889171,16294,,branch-misses,6692188,87.87,0.57,of all branches
+     5.011046889,2819241,,branches,6737689,0.00,,,,
+     5.011046889,10799,,branch-misses,6699245,87.90,0.38,of all branches
+     5.021197600,1275594,,branches,6744621,0.00,,,,
+     5.021197600,114069,,branch-misses,6706258,87.93,3.98,of all branches
+     5.031369428,4022401,,branches,6751573,0.00,,,,
+     5.031369428,39425,,branch-misses,6713287,87.96,1.38,of all branches
+     5.041550535,4749456,,branches,6758515,0.00,,,,
+     5.041550535,14936,,branch-misses,6720307,88.00,0.52,of all branches
+     5.051698855,4760966,,branches,6765368,0.00,,,,
+     5.051698855,15130,,branch-misses,6727232,88.03,0.53,of all branches
+     5.061830925,4720971,,branches,6772153,0.00,,,,
+     5.061830925,15160,,branch-misses,6734095,88.06,0.53,of all branches
+     5.071967730,3938409,,branches,6778921,0.00,,,,
+     5.071967730,12429,,branch-misses,6740941,88.09,0.43,of all branches
+     5.082122711,4571425,,branches,6785696,0.00,,,,
+     5.082122711,13888,,branch-misses,6747795,88.12,0.48,of all branches
+     5.092340499,3707333,,branches,6792572,0.00,,,,
+     5.092340499,11942,,branch-misses,6754747,88.16,0.41,of all branches
+     5.102574963,4698661,,branches,6799455,0.00,,,,
+     5.102574963,16045,,branch-misses,6761706,88.19,0.56,of all branches
+     5.112745655,4566859,,branches,6806187,0.00,,,,
+     5.112745655,16368,,branch-misses,6768510,88.22,0.57,of all branches
+     5.122880775,4375630,,branches,6812818,0.00,,,,
+     5.122880775,15820,,branch-misses,6775216,88.25,0.55,of all branches
+     5.133023302,4235217,,branches,6819432,0.00,,,,
+     5.133023302,15974,,branch-misses,6781909,88.28,0.55,of all branches
+     5.143192588,4609197,,branches,6826078,0.00,,,,
+     5.143192588,16717,,branch-misses,6788628,88.31,0.58,of all branches
+     5.153354582,4676989,,branches,6832688,0.00,,,,
+     5.153354582,17263,,branch-misses,6795309,88.34,0.59,of all branches
+     5.163492607,4675700,,branches,6839219,0.00,,,,
+     5.163492607,17050,,branch-misses,6801915,88.37,0.59,of all branches
+     5.173634852,3970075,,branches,6845731,0.00,,,,
+     5.173634852,14961,,branch-misses,6808501,88.40,0.51,of all branches
+     5.183770709,3765049,,branches,6852208,0.00,,,,
+     5.183770709,14649,,branch-misses,6815051,88.43,0.50,of all branches
+     5.194022185,3693342,,branches,6858884,0.00,,,,
+     5.194022185,14815,,branch-misses,6821801,88.46,0.51,of all branches
+     5.204175690,4521444,,branches,6865345,0.00,,,,
+     5.204175690,17962,,branch-misses,6828334,88.49,0.62,of all branches
+     5.214328216,4479250,,branches,6871773,0.00,,,,
+     5.214328216,17190,,branch-misses,6834837,88.52,0.59,of all branches
+     5.224471014,4577174,,branches,6878166,0.00,,,,
+     5.224471014,17741,,branch-misses,6841298,88.55,0.61,of all branches
+     5.234616311,4579478,,branches,6884531,0.00,,,,
+     5.234616311,17482,,branch-misses,6847737,88.58,0.60,of all branches
+     5.244791825,4278613,,branches,6890933,0.00,,,,
+     5.244791825,19435,,branch-misses,6854210,88.61,0.66,of all branches
+     5.254953439,2293497,,branches,6897279,0.00,,,,
+     5.254953439,64396,,branch-misses,6860631,88.64,2.20,of all branches
+     5.265148555,2277212,,branches,6903641,0.00,,,,
+     5.265148555,64145,,branch-misses,6867062,88.67,2.19,of all branches
+     5.275313102,2380738,,branches,6909946,0.00,,,,
+     5.275313102,64181,,branch-misses,6873440,88.70,2.19,of all branches
+     5.285479509,4844511,,branches,6916231,0.00,,,,
+     5.285479509,52658,,branch-misses,6879795,88.72,1.80,of all branches
+     5.295669240,4860836,,branches,6922541,0.00,,,,
+     5.295669240,51699,,branch-misses,6886173,88.75,1.76,of all branches
+     5.305827886,4486356,,branches,6928766,0.00,,,,
+     5.305827886,43265,,branch-misses,6892466,88.78,1.47,of all branches
+     5.315977118,4210838,,branches,6934940,0.00,,,,
+     5.315977118,35635,,branch-misses,6898714,88.81,1.21,of all branches
+     5.326162817,3623017,,branches,6941171,0.00,,,,
+     5.326162817,58556,,branch-misses,6905011,88.84,1.99,of all branches
+     5.336324135,2800505,,branches,6947326,0.00,,,,
+     5.336324135,43052,,branch-misses,6911237,88.87,1.46,of all branches
+     5.346482844,2772071,,branches,6953453,0.00,,,,
+     5.346482844,52031,,branch-misses,6917433,88.89,1.77,of all branches
+     5.356737078,2244251,,branches,6959712,0.00,,,,
+     5.356737078,25139,,branch-misses,6923787,88.92,0.86,of all branches
+     5.367016537,2962026,,branches,6966051,0.00,,,,
+     5.367016537,33730,,branch-misses,6930167,88.95,1.15,of all branches
+     5.377230924,1839795,,branches,6972214,0.00,,,,
+     5.377230924,59507,,branch-misses,6936398,88.98,2.03,of all branches
+     5.387409045,2366836,,branches,6978287,0.00,,,,
+     5.387409045,28438,,branch-misses,6942537,89.00,0.97,of all branches
+     5.397583802,3084866,,branches,6984329,0.00,,,,
+     5.397583802,33943,,branch-misses,6948647,89.03,1.16,of all branches
+     5.407743120,2877525,,branches,6990318,0.00,,,,
+     5.407743120,32082,,branch-misses,6954704,89.06,1.09,of all branches
+     5.417938042,2681024,,branches,6996353,0.00,,,,
+     5.417938042,30414,,branch-misses,6960805,89.08,1.04,of all branches
+     5.428088382,2893222,,branches,7002282,0.00,,,,
+     5.428088382,32662,,branch-misses,6966800,89.11,1.11,of all branches
+     5.438244770,1283081,,branches,7008198,0.00,,,,
+     5.438244770,40000,,branch-misses,6972783,89.14,1.36,of all branches
+     5.448390624,1434249,,branches,7014074,0.00,,,,
+     5.448390624,66301,,branch-misses,6978725,89.16,2.26,of all branches
+     5.458539333,3283416,,branches,7019931,0.00,,,,
+     5.458539333,35335,,branch-misses,6984648,89.19,1.21,of all branches
+     5.468705199,2738501,,branches,7025776,0.00,,,,
+     5.468705199,28800,,branch-misses,6990560,89.22,0.98,of all branches
+     5.478863356,2493609,,branches,7031610,0.00,,,,
+     5.478863356,26541,,branch-misses,6996459,89.24,0.91,of all branches
+     5.489001718,2959122,,branches,7037385,0.00,,,,
+     5.489001718,31930,,branch-misses,7002298,89.27,1.09,of all branches
+     5.499203572,2888465,,branches,7043253,0.00,,,,
+     5.499203572,31222,,branch-misses,7008233,89.29,1.07,of all branches
+     5.509355877,2877264,,branches,7049012,0.00,,,,
+     5.509355877,31267,,branch-misses,7014055,89.32,1.07,of all branches
+     5.519513187,2978720,,branches,7054754,0.00,,,,
+     5.519513187,32231,,branch-misses,7019864,89.35,1.10,of all branches
+     5.529654419,2902259,,branches,7060450,0.00,,,,
+     5.529654419,31323,,branch-misses,7025622,89.37,1.07,of all branches
+     5.539826901,2435775,,branches,7066175,0.00,,,,
+     5.539826901,25773,,branch-misses,7031415,89.40,0.88,of all branches
+     5.549994700,2242260,,branches,7071881,0.00,,,,
+     5.549994700,24345,,branch-misses,7037181,89.42,0.83,of all branches
+     5.560131677,1800097,,branches,7077499,0.00,,,,
+     5.560131677,15566,,branch-misses,7042868,89.45,0.53,of all branches
+     5.570377537,492632,,branches,7083303,0.00,,,,
+     5.570377537,43197,,branch-misses,7048733,89.47,1.48,of all branches
+     5.580642183,464558,,branches,7089121,0.00,,,,
+     5.580642183,50584,,branch-misses,7054613,89.50,1.74,of all branches
+     5.590793733,412660,,branches,7094708,0.00,,,,
+     5.590793733,46366,,branch-misses,7060263,89.52,1.59,of all branches
+     5.600948518,2392133,,branches,7100280,0.00,,,,
+     5.600948518,35898,,branch-misses,7065898,89.55,1.23,of all branches
+     5.611088076,2627008,,branches,7105807,0.00,,,,
+     5.611088076,26571,,branch-misses,7071486,89.57,0.91,of all branches
+     5.621207596,3261627,,branches,7111274,0.00,,,,
+     5.621207596,33318,,branch-misses,7077017,89.59,1.15,of all branches
+     5.631360418,3255144,,branches,7116786,0.00,,,,
+     5.631360418,32960,,branch-misses,7082589,89.62,1.13,of all branches
+     5.641502514,2665737,,branches,7122252,0.00,,,,
+     5.641502514,25754,,branch-misses,7088120,89.64,0.89,of all branches
+     5.651660288,2665668,,branches,7127729,0.00,,,,
+     5.651660288,25644,,branch-misses,7093659,89.67,0.88,of all branches
+     5.661837996,2881799,,branches,7133225,0.00,,,,
+     5.661837996,28675,,branch-misses,7099216,89.69,0.99,of all branches
+     5.672004371,3067897,,branches,7138680,0.00,,,,
+     5.672004371,30710,,branch-misses,7104732,89.71,1.06,of all branches
+     5.682153385,3121608,,branches,7144087,0.00,,,,
+     5.682153385,31495,,branch-misses,7110197,89.74,1.08,of all branches
+     5.692289545,3017805,,branches,7149448,0.00,,,,
+     5.692289545,30314,,branch-misses,7115619,89.76,1.04,of all branches
+     5.702439066,2579288,,branches,7154812,0.00,,,,
+     5.702439066,25916,,branch-misses,7121046,89.79,0.89,of all branches
+     5.712616399,3047271,,branches,7160210,0.00,,,,
+     5.712616399,30720,,branch-misses,7126503,89.81,1.06,of all branches
+     5.722761647,2934507,,branches,7165527,0.00,,,,
+     5.722761647,29722,,branch-misses,7131882,89.83,1.02,of all branches
+     5.732924394,3079900,,branches,7170863,0.00,,,,
+     5.732924394,30580,,branch-misses,7137275,89.85,1.05,of all branches
+     5.743077479,3042286,,branches,7176160,0.00,,,,
+     5.743077479,30150,,branch-misses,7142631,89.88,1.04,of all branches
+     5.753233053,2981616,,branches,7181441,0.00,,,,
+     5.753233053,29607,,branch-misses,7147973,89.90,1.02,of all branches
+     5.763372012,2938240,,branches,7186675,0.00,,,,
+     5.763372012,28871,,branch-misses,7153266,89.92,0.99,of all branches
+     5.773527403,2944132,,branches,7191920,0.00,,,,
+     5.773527403,28634,,branch-misses,7158569,89.95,0.98,of all branches
+     5.783692007,2372960,,branches,7197159,0.00,,,,
+     5.783692007,28248,,branch-misses,7163869,89.97,0.97,of all branches
+     5.793844951,1901900,,branches,7202364,0.00,,,,
+     5.793844951,28560,,branch-misses,7169131,89.99,0.98,of all branches
+     5.803990178,1818209,,branches,7207530,0.00,,,,
+     5.803990178,27041,,branch-misses,7174360,90.01,0.93,of all branches
+     5.814266574,2001479,,branches,7212918,0.00,,,,
+     5.814266574,30205,,branch-misses,7179803,90.04,1.04,of all branches
+     5.824425324,1986818,,branches,7218077,0.00,,,,
+     5.824425324,29463,,branch-misses,7185019,90.06,1.02,of all branches
+     5.834568797,2016395,,branches,7223186,0.00,,,,
+     5.834568797,28696,,branch-misses,7190190,90.08,0.99,of all branches
+     5.844741008,1669726,,branches,7228331,0.00,,,,
+     5.844741008,23274,,branch-misses,7195393,90.10,0.80,of all branches
+     5.854978522,890600,,branches,7233572,0.00,,,,
+     5.854978522,6598,,branch-misses,7200692,90.12,0.23,of all branches
+     5.865156198,1266685,,branches,7238661,0.00,,,,
+     5.865156198,15703,,branch-misses,7205837,90.15,0.54,of all branches
+     5.875506716,1336342,,branches,7244023,0.00,,,,
+     5.875506716,17967,,branch-misses,7211256,90.17,0.62,of all branches
+     5.885682828,1687616,,branches,7249077,0.00,,,,
+     5.885682828,23492,,branch-misses,7216366,90.19,0.81,of all branches
+     5.896064947,1686648,,branches,7254499,0.00,,,,
+     5.896064947,23664,,branch-misses,7221843,90.21,0.82,of all branches
+     5.906228940,1854212,,branches,7259522,0.00,,,,
+     5.906228940,25459,,branch-misses,7226924,90.23,0.88,of all branches
+     5.916392872,1728715,,branches,7264530,0.00,,,,
+     5.916392872,23570,,branch-misses,7231987,90.26,0.82,of all branches
+     5.926555798,1879929,,branches,7269517,0.00,,,,
+     5.926555798,25529,,branch-misses,7237030,90.28,0.89,of all branches
+     5.936727717,1480099,,branches,7274503,0.00,,,,
+     5.936727717,19774,,branch-misses,7242073,90.30,0.69,of all branches
+     5.946900452,1702494,,branches,7279473,0.00,,,,
+     5.946900452,22600,,branch-misses,7247098,90.32,0.79,of all branches
+     5.957636649,1464374,,branches,7285390,0.00,,,,
+     5.957636649,18874,,branch-misses,7253072,90.34,0.66,of all branches
+     5.967958569,1384448,,branches,7290581,0.00,,,,
+     5.967958569,18161,,branch-misses,7258318,90.36,0.63,of all branches
+     5.978132228,598896,,branches,7295501,0.00,,,,
+     5.978132228,6276,,branch-misses,7263292,90.38,0.22,of all branches
+     5.988301726,500736,,branches,7300397,0.00,,,,
+     5.988301726,3587,,branch-misses,7268242,90.40,0.13,of all branches
+     5.998472045,430904,,branches,7305276,0.00,,,,
+     5.998472045,4542,,branch-misses,7273177,90.42,0.16,of all branches
+     6.011925598,537805,,branches,7315715,0.00,,,,
+     6.011925598,4304,,branch-misses,7283669,90.45,0.15,of all branches
+     6.022112413,402264,,branches,7320578,0.00,,,,
+     6.022112413,3229,,branch-misses,7288589,90.47,0.11,of all branches
+     6.032281267,417752,,branches,7325398,0.00,,,,
+     6.032281267,3193,,branch-misses,7293461,90.49,0.11,of all branches
+     6.042428780,504262,,branches,7330167,0.00,,,,
+     6.042428780,2227,,branch-misses,7298283,90.51,0.08,of all branches
+     6.052604787,451898,,branches,7334961,0.00,,,,
+     6.052604787,2244,,branch-misses,7303133,90.53,0.08,of all branches
+     6.062780921,1042218,,branches,7339743,0.00,,,,
+     6.062780921,2542,,branch-misses,7307969,90.55,0.09,of all branches
+     6.072973635,2262338,,branches,7344542,0.00,,,,
+     6.072973635,2450,,branch-misses,7312818,90.57,0.09,of all branches
+     6.083120830,2306244,,branches,7349245,0.00,,,,
+     6.083120830,3105,,branch-misses,7317574,90.59,0.11,of all branches
+     6.093266588,1969689,,branches,7353925,0.00,,,,
+     6.093266588,3026,,branch-misses,7322310,90.61,0.11,of all branches
+     6.103431102,2224359,,branches,7358628,0.00,,,,
+     6.103431102,7366,,branch-misses,7327062,90.63,0.26,of all branches
+     6.113585820,2137410,,branches,7363294,0.00,,,,
+     6.113585820,4169,,branch-misses,7331782,90.65,0.15,of all branches
+     6.123739215,2308263,,branches,7367943,0.00,,,,
+     6.123739215,2680,,branch-misses,7336484,90.67,0.09,of all branches
+     6.134155742,2381042,,branches,7373016,0.00,,,,
+     6.134155742,2728,,branch-misses,7341608,90.69,0.10,of all branches
+     6.144309618,924173,,branches,7377634,0.00,,,,
+     6.144309618,7445,,branch-misses,7346279,90.71,0.26,of all branches
+     6.154475743,463087,,branches,7382257,0.00,,,,
+     6.154475743,24266,,branch-misses,7350955,90.73,0.86,of all branches
+     6.164620676,449660,,branches,7386832,0.00,,,,
+     6.164620676,36078,,branch-misses,7355580,90.75,1.28,of all branches
+     6.174777348,433148,,branches,7391407,0.00,,,,
+     6.174777348,43121,,branch-misses,7360208,90.77,1.53,of all branches
+     6.184952783,398381,,branches,7395999,0.00,,,,
+     6.184952783,41484,,branch-misses,7364854,90.79,1.48,of all branches
+     6.195121604,373078,,branches,7400569,0.00,,,,
+     6.195121604,34778,,branch-misses,7369472,90.81,1.24,of all branches
+     6.205284392,361488,,branches,7405112,0.00,,,,
+     6.205284392,27575,,branch-misses,7374066,90.83,0.98,of all branches
+     6.215437396,333913,,branches,7409619,0.00,,,,
+     6.215437396,20239,,branch-misses,7378627,90.84,0.72,of all branches
+     6.225616335,327025,,branches,7414163,0.00,,,,
+     6.225616335,15877,,branch-misses,7383218,90.86,0.57,of all branches
+     6.236011430,330538,,branches,7418671,0.00,,,,
+     6.236011430,13743,,branch-misses,7387779,90.88,0.49,of all branches
+     6.246170884,341935,,branches,7423518,0.00,,,,
+     6.246170884,15534,,branch-misses,7392675,90.90,0.56,of all branches
+     6.256334301,402627,,branches,7427985,0.00,,,,
+     6.256334301,29356,,branch-misses,7397194,90.92,1.06,of all branches
+     6.266485353,1791841,,branches,7432314,0.00,,,,
+     6.266485353,22477,,branch-misses,7401570,90.94,0.81,of all branches
+     6.276646545,2763993,,branches,7436748,0.00,,,,
+     6.276646545,19340,,branch-misses,7406057,90.96,0.70,of all branches
+     6.286813885,2658890,,branches,7441155,0.00,,,,
+     6.286813885,80642,,branch-misses,7410513,90.97,2.90,of all branches
+     6.297038564,2283272,,branches,7445638,0.00,,,,
+     6.297038564,93032,,branch-misses,7415067,90.99,3.35,of all branches
+     6.307286133,2166509,,branches,7450199,0.00,,,,
+     6.307286133,55685,,branch-misses,7419656,91.01,2.00,of all branches
+     6.317444246,2632665,,branches,7454569,0.00,,,,
+     6.317444246,47292,,branch-misses,7424079,91.03,1.70,of all branches
+     6.327619136,2725143,,branches,7458959,0.00,,,,
+     6.327619136,69296,,branch-misses,7428516,91.05,2.50,of all branches
+     6.337803735,5039755,,branches,7463346,0.00,,,,
+     6.337803735,82925,,branch-misses,7432953,91.07,2.98,of all branches
+     6.348096281,4524652,,branches,7467897,0.00,,,,
+     6.348096281,45007,,branch-misses,7437550,91.08,1.62,of all branches
+     6.358252163,6186107,,branches,7472210,0.00,,,,
+     6.358252163,17129,,branch-misses,7441913,91.10,0.61,of all branches
+     6.368426452,6215629,,branches,7476536,0.00,,,,
+     6.368426452,18051,,branch-misses,7446289,91.12,0.65,of all branches
+     6.378623111,6982538,,branches,7480891,0.00,,,,
+     6.378623111,25203,,branch-misses,7450691,91.14,0.90,of all branches
+     6.388789880,4905205,,branches,7485178,0.00,,,,
+     6.388789880,48795,,branch-misses,7455028,91.15,1.74,of all branches
+     6.398960670,3321451,,branches,7489462,0.00,,,,
+     6.398960670,133852,,branch-misses,7459359,91.17,4.77,of all branches
+     6.409098860,2304084,,branches,7493679,0.00,,,,
+     6.409098860,206657,,branch-misses,7463624,91.19,7.37,of all branches
+     6.419274562,1678439,,branches,7497940,0.00,,,,
+     6.419274562,148606,,branch-misses,7467934,91.21,5.30,of all branches
+     6.429458582,1449609,,branches,7502201,0.00,,,,
+     6.429458582,126279,,branch-misses,7472245,91.22,4.51,of all branches
+     6.439635702,1581947,,branches,7506445,0.00,,,,
+     6.439635702,140196,,branch-misses,7476532,91.24,5.01,of all branches
+     6.449813749,1826777,,branches,7510671,0.00,,,,
+     6.449813749,163258,,branch-misses,7480806,91.26,5.84,of all branches
+     6.459964941,3788859,,branches,7514842,0.00,,,,
+     6.459964941,46086,,branch-misses,7485024,91.28,1.65,of all branches
+     6.470158662,4568903,,branches,7519065,0.00,,,,
+     6.470158662,41192,,branch-misses,7489295,91.29,1.47,of all branches
+     6.480323330,3794975,,branches,7523230,0.00,,,,
+     6.480323330,32054,,branch-misses,7493507,91.31,1.14,of all branches
+     6.490498626,4140779,,branches,7527374,0.00,,,,
+     6.490498626,43814,,branch-misses,7497698,91.33,1.56,of all branches
+     6.500716570,4316084,,branches,7531597,0.00,,,,
+     6.500716570,20033,,branch-misses,7501967,91.34,0.71,of all branches
+     6.510942716,2968261,,branches,7535820,0.00,,,,
+     6.510942716,13424,,branch-misses,7506236,91.36,0.48,of all branches
+     6.521110360,4381573,,branches,7539938,0.00,,,,
+     6.521110360,17344,,branch-misses,7510400,91.38,0.62,of all branches
+     6.531381418,3706861,,branches,7544205,0.00,,,,
+     6.531381418,20449,,branch-misses,7514713,91.39,0.73,of all branches
+     6.541624448,3879142,,branches,7548414,0.00,,,,
+     6.541624448,77717,,branch-misses,7518969,91.41,2.76,of all branches
+     6.552109370,4893226,,branches,7552475,0.00,,,,
+     6.552109370,48469,,branch-misses,7523562,91.43,1.72,of all branches
+     6.562303364,3034488,,branches,7557067,0.00,,,,
+     6.562303364,59008,,branch-misses,7527715,91.44,2.09,of all branches
+     6.572483037,3078247,,branches,7561140,0.00,,,,
+     6.572483037,57536,,branch-misses,7531833,91.46,2.04,of all branches
+     6.582711883,3136289,,branches,7565278,0.00,,,,
+     6.582711883,81549,,branch-misses,7536014,91.48,2.89,of all branches
+     6.592867025,2003030,,branches,7569282,0.00,,,,
+     6.592867025,73646,,branch-misses,7540066,91.49,2.61,of all branches
+     6.603045950,3213236,,branches,7573316,0.00,,,,
+     6.603045950,78758,,branch-misses,7544144,91.51,2.80,of all branches
+     6.613221022,5776054,,branches,7577330,0.00,,,,
+     6.613221022,65105,,branch-misses,7548204,91.53,2.31,of all branches
+     6.623400184,5408997,,branches,7581342,0.00,,,,
+     6.623400184,22003,,branch-misses,7552258,91.54,0.78,of all branches
+     6.633563547,4344178,,branches,7585312,0.00,,,,
+     6.633563547,6866,,branch-misses,7556274,91.56,0.24,of all branches
+     6.643736436,7985855,,branches,7589287,0.00,,,,
+     6.643736436,28771,,branch-misses,7560293,91.57,1.01,of all branches
+     6.653939574,5352683,,branches,7593292,0.00,,,,
+     6.653939574,20503,,branch-misses,7564345,91.59,0.72,of all branches
+     6.664126883,4562084,,branches,7597265,0.00,,,,
+     6.664126883,60324,,branch-misses,7568361,91.61,2.12,of all branches
+     6.674312562,4613391,,branches,7601220,0.00,,,,
+     6.674312562,32489,,branch-misses,7572362,91.62,1.14,of all branches
+     6.684488994,4291079,,branches,7605128,0.00,,,,
+     6.684488994,39759,,branch-misses,7576312,91.64,1.40,of all branches
+     6.694672572,4634668,,branches,7609060,0.00,,,,
+     6.694672572,41440,,branch-misses,7580286,91.65,1.45,of all branches
+     6.704826677,5487027,,branches,7612935,0.00,,,,
+     6.704826677,29514,,branch-misses,7584203,91.67,1.03,of all branches
+     6.714979390,4888126,,branches,7616794,0.00,,,,
+     6.714979390,17316,,branch-misses,7588107,91.68,0.61,of all branches
+     6.725333410,5431750,,branches,7620944,0.00,,,,
+     6.725333410,18660,,branch-misses,7592303,91.70,0.65,of all branches
+     6.735513892,3352780,,branches,7624819,0.00,,,,
+     6.735513892,18730,,branch-misses,7596223,91.72,0.65,of all branches
+     6.745820345,2688061,,branches,7628876,0.00,,,,
+     6.745820345,61459,,branch-misses,7600322,91.73,2.15,of all branches
+     6.756137591,4584901,,branches,7632937,0.00,,,,
+     6.756137591,51586,,branch-misses,7604426,91.75,1.80,of all branches
+     6.766309260,4040393,,branches,7636767,0.00,,,,
+     6.766309260,55244,,branch-misses,7608298,91.76,1.93,of all branches
+     6.776971397,3170930,,branches,7641286,0.00,,,,
+     6.776971397,59885,,branch-misses,7612860,91.78,2.09,of all branches
+     6.787808435,2125644,,branches,7646054,0.00,,,,
+     6.787808435,63383,,branch-misses,7617692,91.79,2.21,of all branches
+     6.797993585,2350623,,branches,7649887,0.00,,,,
+     6.797993585,86316,,branch-misses,7621547,91.81,3.01,of all branches
+     6.808169864,2203916,,branches,7653675,0.00,,,,
+     6.808169864,75879,,branch-misses,7625377,91.82,2.65,of all branches
+     6.818353384,2723052,,branches,7657460,0.00,,,,
+     6.818353384,55722,,branch-misses,7629205,91.84,1.95,of all branches
+     6.828537950,2520722,,branches,7661237,0.00,,,,
+     6.828537950,64102,,branch-misses,7633024,91.85,2.24,of all branches
+     6.838719141,2649696,,branches,7664997,0.00,,,,
+     6.838719141,73611,,branch-misses,7636827,91.87,2.57,of all branches
+     6.848899103,4402554,,branches,7668743,0.00,,,,
+     6.848899103,42454,,branch-misses,7640615,91.88,1.48,of all branches
+     6.859071448,3372547,,branches,7672468,0.00,,,,
+     6.859071448,35845,,branch-misses,7644383,91.90,1.25,of all branches
+     6.869262107,4812512,,branches,7676212,0.00,,,,
+     6.869262107,12882,,branch-misses,7648166,91.91,0.45,of all branches
+     6.879434798,4746478,,branches,7679915,0.00,,,,
+     6.879434798,12400,,branch-misses,7651911,91.93,0.43,of all branches
+     6.889599490,7686796,,branches,7683594,0.00,,,,
+     6.889599490,28770,,branch-misses,7655632,91.94,1.00,of all branches
+     6.899776227,6111576,,branches,7687281,0.00,,,,
+     6.899776227,36271,,branch-misses,7659361,91.96,1.26,of all branches
+     6.909988586,4345333,,branches,7691012,0.00,,,,
+     6.909988586,62277,,branch-misses,7663132,91.97,2.16,of all branches
+     6.920155334,5861641,,branches,7694666,0.00,,,,
+     6.920155334,38416,,branch-misses,7666825,91.99,1.33,of all branches
+     6.930314658,5637707,,branches,7698295,0.00,,,,
+     6.930314658,48233,,branch-misses,7670495,92.00,1.67,of all branches
+     6.940469522,5226018,,branches,7701893,0.00,,,,
+     6.940469522,27212,,branch-misses,7674147,92.01,0.94,of all branches
+     6.950646801,5045253,,branches,7705538,0.00,,,,
+     6.950646801,20426,,branch-misses,7677823,92.03,0.70,of all branches
+     6.960825291,5582480,,branches,7709164,0.00,,,,
+     6.960825291,19183,,branch-misses,7681489,92.04,0.66,of all branches
+     6.970990544,4890311,,branches,7712762,0.00,,,,
+     6.970990544,39374,,branch-misses,7685125,92.06,1.35,of all branches
+     6.981163450,3340169,,branches,7716358,0.00,,,,
+     6.981163450,56065,,branch-misses,7688761,92.07,1.93,of all branches
+     6.991327469,5157344,,branches,7719929,0.00,,,,
+     6.991327469,55808,,branch-misses,7692374,92.09,1.92,of all branches
+     7.001476644,3573628,,branches,7723468,0.00,,,,
+     7.001476644,48865,,branch-misses,7695954,92.10,1.68,of all branches
+     7.011634707,3388718,,branches,7727015,0.00,,,,
+     7.011634707,80320,,branch-misses,7699538,92.11,2.76,of all branches
+     7.021773328,3976065,,branches,7730518,0.00,,,,
+     7.021773328,73773,,branch-misses,7703082,92.13,2.53,of all branches
+     7.032077327,5726658,,branches,7734250,0.00,,,,
+     7.032077327,74708,,branch-misses,7706856,92.14,2.56,of all branches
+     7.042526685,4891834,,branches,7738184,0.00,,,,
+     7.042526685,45192,,branch-misses,7710830,92.16,1.55,of all branches
+     7.052715571,6679519,,branches,7741732,0.00,,,,
+     7.052715571,16273,,branch-misses,7714417,92.17,0.56,of all branches
+     7.062892438,8548490,,branches,7745249,0.00,,,,
+     7.062892438,31404,,branch-misses,7717974,92.18,1.07,of all branches
+     7.073071298,7149204,,branches,7748762,0.00,,,,
+     7.073071298,46041,,branch-misses,7721525,92.20,1.57,of all branches
+     7.083234054,5453722,,branches,7752240,0.00,,,,
+     7.083234054,58804,,branch-misses,7725042,92.21,2.00,of all branches
+     7.093420680,4530589,,branches,7755742,0.00,,,,
+     7.093420680,36873,,branch-misses,7728583,92.22,1.25,of all branches
+     7.103576601,5481431,,branches,7759189,0.00,,,,
+     7.103576601,47754,,branch-misses,7732070,92.24,1.62,of all branches
+     7.113747471,3713819,,branches,7762648,0.00,,,,
+     7.113747471,29012,,branch-misses,7735568,92.25,0.98,of all branches
+     7.123926075,4152969,,branches,7766107,0.00,,,,
+     7.123926075,18416,,branch-misses,7739067,92.26,0.62,of all branches
+     7.134105203,4066326,,branches,7769561,0.00,,,,
+     7.134105203,18635,,branch-misses,7742558,92.28,0.63,of all branches
+     7.144272809,5045407,,branches,7772985,0.00,,,,
+     7.144272809,20269,,branch-misses,7746022,92.29,0.69,of all branches
+     7.154457633,3958499,,branches,7776425,0.00,,,,
+     7.154457633,35904,,branch-misses,7749500,92.30,1.21,of all branches
+     7.164637696,4289023,,branches,7779850,0.00,,,,
+     7.164637696,58109,,branch-misses,7752962,92.32,1.96,of all branches
+     7.174803713,3599730,,branches,7783241,0.00,,,,
+     7.174803713,51405,,branch-misses,7756393,92.33,1.74,of all branches
+     7.184981143,3430712,,branches,7786641,0.00,,,,
+     7.184981143,51726,,branch-misses,7759832,92.34,1.75,of all branches
+     7.195178351,2837662,,branches,7790061,0.00,,,,
+     7.195178351,83472,,branch-misses,7763289,92.36,2.82,of all branches
+     7.205361022,2615581,,branches,7793449,0.00,,,,
+     7.205361022,75469,,branch-misses,7766715,92.37,2.55,of all branches
+     7.215545991,2900065,,branches,7796830,0.00,,,,
+     7.215545991,81479,,branch-misses,7770134,92.38,2.75,of all branches
+     7.225719612,3546881,,branches,7800186,0.00,,,,
+     7.225719612,56604,,branch-misses,7773528,92.40,1.91,of all branches
+     7.235967975,2850067,,branches,7803637,0.00,,,,
+     7.235967975,74591,,branch-misses,7777018,92.41,2.52,of all branches
+     7.246147689,5377086,,branches,7806985,0.00,,,,
+     7.246147689,60849,,branch-misses,7780402,92.42,2.05,of all branches
+     7.256328032,3850586,,branches,7810325,0.00,,,,
+     7.256328032,39824,,branch-misses,7783777,92.44,1.34,of all branches
+     7.266484572,4619857,,branches,7813618,0.00,,,,
+     7.266484572,13195,,branch-misses,7787109,92.45,0.44,of all branches
+     7.276656859,6694996,,branches,7816899,0.00,,,,
+     7.276656859,15307,,branch-misses,7790428,92.46,0.51,of all branches
+     7.286828254,6138072,,branches,7820195,0.00,,,,
+     7.286828254,22920,,branch-misses,7793761,92.47,0.77,of all branches
+     7.296999104,5429027,,branches,7823483,0.00,,,,
+     7.296999104,40290,,branch-misses,7797085,92.49,1.35,of all branches
+     7.307178356,5048405,,branches,7826771,0.00,,,,
+     7.307178356,62712,,branch-misses,7800412,92.50,2.10,of all branches
+     7.317340881,3607657,,branches,7830033,0.00,,,,
+     7.317340881,24624,,branch-misses,7803706,92.51,0.82,of all branches
+     7.327499731,4688636,,branches,7833272,0.00,,,,
+     7.327499731,34724,,branch-misses,7806986,92.52,1.16,of all branches
+     7.337694160,4411773,,branches,7836555,0.00,,,,
+     7.337694160,41253,,branch-misses,7810305,92.54,1.38,of all branches
+     7.347992562,4521708,,branches,7839974,0.00,,,,
+     7.347992562,19746,,branch-misses,7813761,92.55,0.66,of all branches
+     7.358161858,3945004,,branches,7843206,0.00,,,,
+     7.358161858,18809,,branch-misses,7817028,92.56,0.63,of all branches
+     7.368339210,4631186,,branches,7846438,0.00,,,,
+     7.368339210,19435,,branch-misses,7820296,92.57,0.65,of all branches
+     7.378507513,4105694,,branches,7849649,0.00,,,,
+     7.378507513,20187,,branch-misses,7823543,92.59,0.67,of all branches
+     7.388753293,2865297,,branches,7852959,0.00,,,,
+     7.388753293,66823,,branch-misses,7826888,92.60,2.23,of all branches
+     7.398942284,3926080,,branches,7856180,0.00,,,,
+     7.398942284,32386,,branch-misses,7830146,92.61,1.08,of all branches
+     7.409103109,4613681,,branches,7859355,0.00,,,,
+     7.409103109,64315,,branch-misses,7833355,92.62,2.14,of all branches
+     7.419263796,3485087,,branches,7862516,0.00,,,,
+     7.419263796,65327,,branch-misses,7836555,92.64,2.18,of all branches
+     7.429445254,2679564,,branches,7865702,0.00,,,,
+     7.429445254,72836,,branch-misses,7839776,92.65,2.43,of all branches
+     7.439623376,3422333,,branches,7868872,0.00,,,,
+     7.439623376,66629,,branch-misses,7842983,92.66,2.22,of all branches
+     7.449791535,3105935,,branches,7872026,0.00,,,,
+     7.449791535,54735,,branch-misses,7846168,92.67,1.82,of all branches
+     7.459943487,4073316,,branches,7875141,0.00,,,,
+     7.459943487,51949,,branch-misses,7849321,92.68,1.73,of all branches
+     7.470128610,3901659,,branches,7878295,0.00,,,,
+     7.470128610,15515,,branch-misses,7852512,92.70,0.52,of all branches
+     7.480304785,5223958,,branches,7881429,0.00,,,,
+     7.480304785,9652,,branch-misses,7855681,92.71,0.32,of all branches
+     7.490527402,3866929,,branches,7884540,0.00,,,,
+     7.490527402,10152,,branch-misses,7858827,92.72,0.34,of all branches
+     7.500697823,4899468,,branches,7887651,0.00,,,,
+     7.500697823,16844,,branch-misses,7861972,92.73,0.56,of all branches
+     7.510874940,4548169,,branches,7890739,0.00,,,,
+     7.510874940,13862,,branch-misses,7865094,92.74,0.46,of all branches
+     7.521048434,3499208,,branches,7893818,0.00,,,,
+     7.521048434,33086,,branch-misses,7868207,92.76,1.10,of all branches
+     7.531224503,3300401,,branches,7896908,0.00,,,,
+     7.531224503,49169,,branch-misses,7871334,92.77,1.63,of all branches
+     7.541399485,5457726,,branches,7899967,0.00,,,,
+     7.541399485,36741,,branch-misses,7874427,92.78,1.22,of all branches
+     7.551574864,4260661,,branches,7903036,0.00,,,,
+     7.551574864,41462,,branch-misses,7877534,92.79,1.37,of all branches
+     7.562156197,2945915,,branches,7906655,0.00,,,,
+     7.562156197,46362,,branch-misses,7881184,92.80,1.54,of all branches
+     7.572331134,3086026,,branches,7909692,0.00,,,,
+     7.572331134,18634,,branch-misses,7884253,92.81,0.62,of all branches
+     7.582493831,3623594,,branches,7912721,0.00,,,,
+     7.582493831,18221,,branch-misses,7887318,92.83,0.60,of all branches
+     7.592669078,4809120,,branches,7915761,0.00,,,,
+     7.592669078,16156,,branch-misses,7890393,92.84,0.53,of all branches
+     7.602849884,4895793,,branches,7918802,0.00,,,,
+     7.602849884,20495,,branch-misses,7893467,92.85,0.68,of all branches
+     7.613211254,3262255,,branches,7922075,0.00,,,,
+     7.613211254,36315,,branch-misses,7896774,92.86,1.20,of all branches
+     7.623409438,3818314,,branches,7925122,0.00,,,,
+     7.623409438,63445,,branch-misses,7899855,92.87,2.10,of all branches
+     7.633586107,5160996,,branches,7928132,0.00,,,,
+     7.633586107,59744,,branch-misses,7902898,92.88,1.97,of all branches
+     7.643750093,4559234,,branches,7931117,0.00,,,,
+     7.643750093,71662,,branch-misses,7905916,92.90,2.36,of all branches
+     7.653946511,3270149,,branches,7934136,0.00,,,,
+     7.653946511,82905,,branch-misses,7908970,92.91,2.73,of all branches
+     7.664122065,1678453,,branches,7937119,0.00,,,,
+     7.664122065,86468,,branch-misses,7911987,92.92,2.85,of all branches
+     7.674305549,2004517,,branches,7940104,0.00,,,,
+     7.674305549,74569,,branch-misses,7915007,92.93,2.46,of all branches
+     7.684482060,2382285,,branches,7943077,0.00,,,,
+     7.684482060,59515,,branch-misses,7918010,92.94,1.97,of all branches
+     7.694635736,4003321,,branches,7946009,0.00,,,,
+     7.694635736,78070,,branch-misses,7920975,92.95,2.58,of all branches
+     7.704785425,6164044,,branches,7948927,0.00,,,,
+     7.704785425,72805,,branch-misses,7923926,92.96,2.40,of all branches
+     7.714962075,7169778,,branches,7951872,0.00,,,,
+     7.714962075,28458,,branch-misses,7926905,92.97,0.94,of all branches
+     7.725145922,7574124,,branches,7954823,0.00,,,,
+     7.725145922,23903,,branch-misses,7929887,92.98,0.78,of all branches
+     7.735302094,8315901,,branches,7957726,0.00,,,,
+     7.735302094,28245,,branch-misses,7932823,93.00,0.93,of all branches
+     7.745469108,5424437,,branches,7960635,0.00,,,,
+     7.745469108,72212,,branch-misses,7935766,93.01,2.36,of all branches
+     7.755626875,5619953,,branches,7963525,0.00,,,,
+     7.755626875,38873,,branch-misses,7938689,93.02,1.27,of all branches
+     7.765739429,4679458,,branches,7966347,0.00,,,,
+     7.765739429,40476,,branch-misses,7941545,93.03,1.32,of all branches
+     7.775887775,5315349,,branches,7969212,0.00,,,,
+     7.775887775,44782,,branch-misses,7944441,93.04,1.46,of all branches
+     7.786054505,5706183,,branches,7972091,0.00,,,,
+     7.786054505,21153,,branch-misses,7947353,93.05,0.69,of all branches
+     7.796222669,5247628,,branches,7974964,0.00,,,,
+     7.796222669,18310,,branch-misses,7950259,93.06,0.60,of all branches
+     7.806392564,5880996,,branches,7977836,0.00,,,,
+     7.806392564,21459,,branch-misses,7953160,93.07,0.70,of all branches
+     7.816550440,4843400,,branches,7980680,0.00,,,,
+     7.816550440,72809,,branch-misses,7956038,93.08,2.37,of all branches
+     7.826710425,5342858,,branches,7983521,0.00,,,,
+     7.826710425,59407,,branch-misses,7958911,93.09,1.93,of all branches
+     7.836867376,4432932,,branches,7986349,0.00,,,,
+     7.836867376,79793,,branch-misses,7961772,93.10,2.59,of all branches
+     7.847029585,3430404,,branches,7989179,0.00,,,,
+     7.847029585,79187,,branch-misses,7964633,93.11,2.57,of all branches
+     7.857189573,3945048,,branches,7991996,0.00,,,,
+     7.857189573,78770,,branch-misses,7967483,93.13,2.56,of all branches
+     7.867361247,5495648,,branches,7994822,0.00,,,,
+     7.867361247,53425,,branch-misses,7970341,93.14,1.73,of all branches
+     7.877539038,6587022,,branches,7997650,0.00,,,,
+     7.877539038,35805,,branch-misses,7973200,93.15,1.16,of all branches
+     7.887704675,7596270,,branches,8000456,0.00,,,,
+     7.887704675,17036,,branch-misses,7976036,93.16,0.55,of all branches
+     7.897866898,8793284,,branches,8003245,0.00,,,,
+     7.897866898,33232,,branch-misses,7978860,93.17,1.07,of all branches
+     7.908030227,5668446,,branches,8006034,0.00,,,,
+     7.908030227,65068,,branch-misses,7981678,93.18,2.09,of all branches
+     7.918171097,5203837,,branches,8008785,0.00,,,,
+     7.918171097,39975,,branch-misses,7984460,93.19,1.29,of all branches
+     7.928325095,6274805,,branches,8011545,0.00,,,,
+     7.928325095,43360,,branch-misses,7987252,93.20,1.39,of all branches
+     7.938498921,5329352,,branches,8014322,0.00,,,,
+     7.938498921,43992,,branch-misses,7990061,93.21,1.41,of all branches
+     7.948669934,5850791,,branches,8017092,0.00,,,,
+     7.948669934,20741,,branch-misses,7992861,93.22,0.66,of all branches
+     7.958813945,4744995,,branches,8019816,0.00,,,,
+     7.958813945,18787,,branch-misses,7995618,93.23,0.60,of all branches
+     7.969040840,5312262,,branches,8022642,0.00,,,,
+     7.969040840,18485,,branch-misses,7998475,93.24,0.59,of all branches
+     7.979230563,4552467,,branches,8025412,0.00,,,,
+     7.979230563,73158,,branch-misses,8001276,93.25,2.34,of all branches
+     7.989407846,4721804,,branches,8028160,0.00,,,,
+     7.989407846,56759,,branch-misses,8004055,93.26,1.81,of all branches
+     7.999598361,3419673,,branches,8030916,0.00,,,,
+     7.999598361,46319,,branch-misses,8006842,93.27,1.48,of all branches
+     8.009788951,2664606,,branches,8033670,0.00,,,,
+     8.009788951,65470,,branch-misses,8009624,93.28,2.09,of all branches
+     8.019940127,3103983,,branches,8036362,0.00,,,,
+     8.019940127,82179,,branch-misses,8012349,93.29,2.63,of all branches
+     8.030122523,2342756,,branches,8039088,0.00,,,,
+     8.030122523,76195,,branch-misses,8015105,93.30,2.44,of all branches
+     8.040298797,4231340,,branches,8041799,0.00,,,,
+     8.040298797,65754,,branch-misses,8017846,93.31,2.10,of all branches
+     8.050501752,4410163,,branches,8044539,0.00,,,,
+     8.050501752,79827,,branch-misses,8020616,93.32,2.55,of all branches
+     8.060665076,6143617,,branches,8047221,0.00,,,,
+     8.060665076,59505,,branch-misses,8023328,93.33,1.90,of all branches
+     8.070830907,7039875,,branches,8049897,0.00,,,,
+     8.070830907,13505,,branch-misses,8026036,93.34,0.43,of all branches
+     8.081006331,5347477,,branches,8052582,0.00,,,,
+     8.081006331,19613,,branch-misses,8028749,93.35,0.62,of all branches
+     8.091185855,7676309,,branches,8055263,0.00,,,,
+     8.091185855,32378,,branch-misses,8031461,93.36,1.03,of all branches
+     8.101363441,5549108,,branches,8057934,0.00,,,,
+     8.101363441,42879,,branch-misses,8034163,93.37,1.36,of all branches
+     8.111508242,4849094,,branches,8060557,0.00,,,,
+     8.111508242,51495,,branch-misses,8036817,93.38,1.63,of all branches
+     8.121679434,5249883,,branches,8063210,0.00,,,,
+     8.121679434,42885,,branch-misses,8039498,93.39,1.36,of all branches
+     8.132125319,4997919,,branches,8066199,0.00,,,,
+     8.132125319,50740,,branch-misses,8042517,93.40,1.61,of all branches
+     8.142306059,4462579,,branches,8068848,0.00,,,,
+     8.142306059,18122,,branch-misses,8045196,93.41,0.57,of all branches
+     8.152477118,4147998,,branches,8071478,0.00,,,,
+     8.152477118,17390,,branch-misses,8047856,93.42,0.55,of all branches
+     8.162669659,4943923,,branches,8074130,0.00,,,,
+     8.162669659,22436,,branch-misses,8050537,93.43,0.71,of all branches
+     8.172825143,4306975,,branches,8076725,0.00,,,,
+     8.172825143,17502,,branch-misses,8053163,93.44,0.55,of all branches
+     8.182998672,3006671,,branches,8079342,0.00,,,,
+     8.182998672,57406,,branch-misses,8055807,93.45,1.81,of all branches
+     8.193178621,5251271,,branches,8081956,0.00,,,,
+     8.193178621,51485,,branch-misses,8058452,93.46,1.63,of all branches
+     8.203406004,3096942,,branches,8084612,0.00,,,,
+     8.203406004,58291,,branch-misses,8061148,93.47,1.84,of all branches
+     8.213656343,2946709,,branches,8087317,0.00,,,,
+     8.213656343,41371,,branch-misses,8063868,93.48,1.31,of all branches
+     8.224047970,2408712,,branches,8090173,0.00,,,,
+     8.224047970,69656,,branch-misses,8066756,93.49,2.20,of all branches
+     8.234209376,1988844,,branches,8092741,0.00,,,,
+     8.234209376,51722,,branch-misses,8069351,93.50,1.63,of all branches
+     8.244363840,2981113,,branches,8095291,0.00,,,,
+     8.244363840,64487,,branch-misses,8071931,93.51,2.04,of all branches
+     8.254536261,5612725,,branches,8097858,0.00,,,,
+     8.254536261,68453,,branch-misses,8074527,93.52,2.16,of all branches
+     8.264729901,3835646,,branches,8100444,0.00,,,,
+     8.264729901,40205,,branch-misses,8077142,93.53,1.27,of all branches
+     8.275914456,6782630,,branches,8104227,0.00,,,,
+     8.275914456,19998,,branch-misses,8080955,93.54,0.63,of all branches
+     8.286115724,5121159,,branches,8106809,0.00,,,,
+     8.286115724,14696,,branch-misses,8083565,93.55,0.46,of all branches
+     8.296270792,5169004,,branches,8109329,0.00,,,,
+     8.296270792,19073,,branch-misses,8086113,93.56,0.60,of all branches
+     8.306442793,5289818,,branches,8111862,0.00,,,,
+     8.306442793,22864,,branch-misses,8088675,93.56,0.72,of all branches
+     8.316612888,3391235,,branches,8114390,0.00,,,,
+     8.316612888,62987,,branch-misses,8091229,93.57,1.98,of all branches
+     8.326783979,3279899,,branches,8116906,0.00,,,,
+     8.326783979,33024,,branch-misses,8093776,93.58,1.04,of all branches
+     8.336962510,4695669,,branches,8119431,0.00,,,,
+     8.336962510,36997,,branch-misses,8096328,93.59,1.16,of all branches
+     8.347291359,4206491,,branches,8122130,0.00,,,,
+     8.347291359,33579,,branch-misses,8099057,93.60,1.06,of all branches
+     8.357471780,4664236,,branches,8124642,0.00,,,,
+     8.357471780,39436,,branch-misses,8101597,93.61,1.24,of all branches
+     8.367648494,3747925,,branches,8127145,0.00,,,,
+     8.367648494,16972,,branch-misses,8104128,93.62,0.53,of all branches
+     8.377802510,4885068,,branches,8129613,0.00,,,,
+     8.377802510,19788,,branch-misses,8106624,93.63,0.62,of all branches
+     8.387991300,3249322,,branches,8132117,0.00,,,,
+     8.387991300,21078,,branch-misses,8109156,93.64,0.66,of all branches
+     8.398167032,3029967,,branches,8134600,0.00,,,,
+     8.398167032,17731,,branch-misses,8111667,93.65,0.56,of all branches
+     8.408342045,3410878,,branches,8137077,0.00,,,,
+     8.408342045,70093,,branch-misses,8114171,93.66,2.20,of all branches
+     8.418491123,4063821,,branches,8139515,0.00,,,,
+     8.418491123,39448,,branch-misses,8116636,93.67,1.24,of all branches
+     8.428650050,2778763,,branches,8141959,0.00,,,,
+     8.428650050,55003,,branch-misses,8119108,93.67,1.73,of all branches
+     8.438823625,4206889,,branches,8144415,0.00,,,,
+     8.438823625,64395,,branch-misses,8121592,93.68,2.02,of all branches
+     8.449031321,2809456,,branches,8146907,0.00,,,,
+     8.449031321,72519,,branch-misses,8124111,93.69,2.27,of all branches
+     8.459196747,2021736,,branches,8149341,0.00,,,,
+     8.459196747,66219,,branch-misses,8126573,93.70,2.08,of all branches
+     8.469359713,1968322,,branches,8151769,0.00,,,,
+     8.469359713,65713,,branch-misses,8129027,93.71,2.06,of all branches
+     8.479520984,2966549,,branches,8154185,0.00,,,,
+     8.479520984,45954,,branch-misses,8131471,93.72,1.44,of all branches
+     8.489695976,2423827,,branches,8156612,0.00,,,,
+     8.489695976,62750,,branch-misses,8133927,93.73,1.97,of all branches
+     8.499837991,3632660,,branches,8158996,0.00,,,,
+     8.499837991,73975,,branch-misses,8136338,93.74,2.32,of all branches
+     8.510011994,5336362,,branches,8161412,0.00,,,,
+     8.510011994,58663,,branch-misses,8138780,93.75,1.84,of all branches
+     8.520189210,6045196,,branches,8163826,0.00,,,,
+     8.520189210,19268,,branch-misses,8141221,93.75,0.60,of all branches
+     8.530366696,5073063,,branches,8166232,0.00,,,,
+     8.530366696,12358,,branch-misses,8143656,93.76,0.39,of all branches
+     8.540533476,7270259,,branches,8168622,0.00,,,,
+     8.540533476,28239,,branch-misses,8146072,93.77,0.88,of all branches
+     8.550707676,5910531,,branches,8171015,0.00,,,,
+     8.550707676,34721,,branch-misses,8148492,93.78,1.08,of all branches
+     8.560894446,3242553,,branches,8173418,0.00,,,,
+     8.560894446,53563,,branch-misses,8150921,93.79,1.67,of all branches
+     8.571045364,3899498,,branches,8175772,0.00,,,,
+     8.571045364,23390,,branch-misses,8153302,93.80,0.73,of all branches
+     8.581211995,3420497,,branches,8178139,0.00,,,,
+     8.581211995,31372,,branch-misses,8155695,93.81,0.98,of all branches
+     8.591373626,4701382,,branches,8180492,0.00,,,,
+     8.591373626,38251,,branch-misses,8158077,93.81,1.19,of all branches
+     8.601558879,2896389,,branches,8182872,0.00,,,,
+     8.601558879,26420,,branch-misses,8160481,93.82,0.82,of all branches
+     8.611718126,4418654,,branches,8185211,0.00,,,,
+     8.611718126,18166,,branch-misses,8162849,93.83,0.57,of all branches
+     8.621906543,5474993,,branches,8187582,0.00,,,,
+     8.621906543,19280,,branch-misses,8165245,93.84,0.60,of all branches
+     8.632331038,5038970,,branches,8190227,0.00,,,,
+     8.632331038,20091,,branch-misses,8167916,93.85,0.63,of all branches
+     8.642509286,2896724,,branches,8192572,0.00,,,,
+     8.642509286,16920,,branch-misses,8170288,93.86,0.53,of all branches
+     8.652678636,2827225,,branches,8194902,0.00,,,,
+     8.652678636,67601,,branch-misses,8172645,93.87,2.11,of all branches
+     8.662860576,5260029,,branches,8197242,0.00,,,,
+     8.662860576,48177,,branch-misses,8175011,93.87,1.50,of all branches
+     8.673030974,3228893,,branches,8199563,0.00,,,,
+     8.673030974,57691,,branch-misses,8177358,93.88,1.80,of all branches
+     8.683207955,2779244,,branches,8201881,0.00,,,,
+     8.683207955,71249,,branch-misses,8179705,93.89,2.22,of all branches
+     8.693396587,2235808,,branches,8204216,0.00,,,,
+     8.693396587,68430,,branch-misses,8182064,93.90,2.13,of all branches
+     8.703587301,3741391,,branches,8206547,0.00,,,,
+     8.703587301,71843,,branch-misses,8184419,93.91,2.24,of all branches
+     8.713759321,3869743,,branches,8208847,0.00,,,,
+     8.713759321,68821,,branch-misses,8186746,93.92,2.14,of all branches
+     8.723953153,5628004,,branches,8211167,0.00,,,,
+     8.723953153,53188,,branch-misses,8189093,93.92,1.65,of all branches
+     8.734129803,7269559,,branches,8213467,0.00,,,,
+     8.734129803,15836,,branch-misses,8191415,93.93,0.49,of all branches
+     8.744290558,8061316,,branches,8215737,0.00,,,,
+     8.744290558,27661,,branch-misses,8193712,93.94,0.86,of all branches
+     8.754454544,7935924,,branches,8218008,0.00,,,,
+     8.754454544,36102,,branch-misses,8196008,93.95,1.12,of all branches
+     8.764609385,5081285,,branches,8220261,0.00,,,,
+     8.764609385,69855,,branch-misses,8198288,93.96,2.16,of all branches
+     8.774775597,5193625,,branches,8222524,0.00,,,,
+     8.774775597,37740,,branch-misses,8200576,93.97,1.17,of all branches
+     8.784942588,5758021,,branches,8224781,0.00,,,,
+     8.784942588,48259,,branch-misses,8202859,93.97,1.49,of all branches
+     8.795110398,5429982,,branches,8227034,0.00,,,,
+     8.795110398,28464,,branch-misses,8205138,93.98,0.88,of all branches
+     8.805282498,5579384,,branches,8229288,0.00,,,,
+     8.805282498,20389,,branch-misses,8207417,93.99,0.63,of all branches
+     8.815461844,5821680,,branches,8231546,0.00,,,,
+     8.815461844,18919,,branch-misses,8209699,94.00,0.58,of all branches
+     8.825632736,4872767,,branches,8233787,0.00,,,,
+     8.825632736,51954,,branch-misses,8211966,94.01,1.60,of all branches
+     8.835821603,5403443,,branches,8236043,0.00,,,,
+     8.835821603,56262,,branch-misses,8214247,94.01,1.73,of all branches
+     8.845990050,4633231,,branches,8238271,0.00,,,,
+     8.845990050,62805,,branch-misses,8216501,94.02,1.93,of all branches
+     8.856160788,3708411,,branches,8240498,0.00,,,,
+     8.856160788,78511,,branch-misses,8218752,94.03,2.41,of all branches
+     8.866338046,3049326,,branches,8242726,0.00,,,,
+     8.866338046,86146,,branch-misses,8221005,94.04,2.65,of all branches
+     8.876507644,3574581,,branches,8244941,0.00,,,,
+     8.876507644,74617,,branch-misses,8223245,94.05,2.29,of all branches
+     8.886685541,3772920,,branches,8247159,0.00,,,,
+     8.886685541,68439,,branch-misses,8225488,94.05,2.10,of all branches
+     8.896836774,3506345,,branches,8249343,0.00,,,,
+     8.896836774,66966,,branch-misses,8227696,94.06,2.06,of all branches
+     8.906998124,6002382,,branches,8251530,0.00,,,,
+     8.906998124,58602,,branch-misses,8229910,94.07,1.80,of all branches
+     8.917185522,6761822,,branches,8253747,0.00,,,,
+     8.917185522,13441,,branch-misses,8232150,94.08,0.41,of all branches
+     8.927331075,8590352,,branches,8255908,0.00,,,,
+     8.927331075,26947,,branch-misses,8234336,94.09,0.82,of all branches
+     8.937481776,7868443,,branches,8258070,0.00,,,,
+     8.937481776,35233,,branch-misses,8236523,94.09,1.08,of all branches
+     8.947631343,5331953,,branches,8260228,0.00,,,,
+     8.947631343,68809,,branch-misses,8238704,94.10,2.10,of all branches
+     8.957777675,5949488,,branches,8262374,0.00,,,,
+     8.957777675,39514,,branch-misses,8240877,94.11,1.21,of all branches
+     8.967936757,5574387,,branches,8264533,0.00,,,,
+     8.967936757,51265,,branch-misses,8243059,94.12,1.56,of all branches
+     8.978084688,5800825,,branches,8266673,0.00,,,,
+     8.978084688,20903,,branch-misses,8245223,94.13,0.64,of all branches
+     8.988226787,5803299,,branches,8268802,0.00,,,,
+     8.988226787,20488,,branch-misses,8247375,94.13,0.62,of all branches
+     8.998391913,4809933,,branches,8270950,0.00,,,,
+     8.998391913,20397,,branch-misses,8249549,94.14,0.62,of all branches
+     9.008545543,4193377,,branches,8273082,0.00,,,,
+     9.008545543,44799,,branch-misses,8251705,94.15,1.36,of all branches
+     9.018694530,5347385,,branches,8275201,0.00,,,,
+     9.018694530,65081,,branch-misses,8253850,94.16,1.98,of all branches
+     9.028856545,4842234,,branches,8277332,0.00,,,,
+     9.028856545,59443,,branch-misses,8256006,94.16,1.81,of all branches
+     9.039028692,3859438,,branches,8279471,0.00,,,,
+     9.039028692,74380,,branch-misses,8258168,94.17,2.26,of all branches
+     9.049202011,3759324,,branches,8281607,0.00,,,,
+     9.049202011,74559,,branch-misses,8260327,94.18,2.26,of all branches
+     9.059396147,3016727,,branches,8283758,0.00,,,,
+     9.059396147,74883,,branch-misses,8262503,94.19,2.27,of all branches
+     9.069577472,5587047,,branches,8285892,0.00,,,,
+     9.069577472,64114,,branch-misses,8264662,94.19,1.95,of all branches
+     9.079754764,4734295,,branches,8288018,0.00,,,,
+     9.079754764,13833,,branch-misses,8266811,94.20,0.42,of all branches
+     9.089949591,6275062,,branches,8290158,0.00,,,,
+     9.089949591,17029,,branch-misses,8268974,94.21,0.52,of all branches
+     9.100118284,6603781,,branches,8292263,0.00,,,,
+     9.100118284,26878,,branch-misses,8271103,94.22,0.81,of all branches
+     9.110289144,5707267,,branches,8294366,0.00,,,,
+     9.110289144,18299,,branch-misses,8273230,94.22,0.55,of all branches
+     9.120467918,3625433,,branches,8296472,0.00,,,,
+     9.120467918,44413,,branch-misses,8275360,94.23,1.34,of all branches
+     9.130647928,3200926,,branches,8298557,0.00,,,,
+     9.130647928,52047,,branch-misses,8277467,94.24,1.57,of all branches
+     9.140815698,3758686,,branches,8300642,0.00,,,,
+     9.140815698,30965,,branch-misses,8279576,94.25,0.94,of all branches
+     9.150974244,5528373,,branches,8302713,0.00,,,,
+     9.150974244,40176,,branch-misses,8281671,94.25,1.21,of all branches
+     9.161145291,4064563,,branches,8304792,0.00,,,,
+     9.161145291,40210,,branch-misses,8283774,94.26,1.21,of all branches
+     9.171321679,3907907,,branches,8306873,0.00,,,,
+     9.171321679,18120,,branch-misses,8285878,94.27,0.55,of all branches
+     9.181490632,3121320,,branches,8308922,0.00,,,,
+     9.181490632,12152,,branch-misses,8287951,94.28,0.37,of all branches
+     9.191655602,5102925,,branches,8310982,0.00,,,,
+     9.191655602,19098,,branch-misses,8290034,94.28,0.58,of all branches
+     9.201819987,4908155,,branches,8313037,0.00,,,,
+     9.201819987,19435,,branch-misses,8292112,94.29,0.59,of all branches
+     9.212138845,2712048,,branches,8315258,0.00,,,,
+     9.212138845,65905,,branch-misses,8294356,94.30,1.99,of all branches
+     9.222293982,4917269,,branches,8317291,0.00,,,,
+     9.222293982,50621,,branch-misses,8296413,94.31,1.53,of all branches
+     9.232477433,4770117,,branches,8319356,0.00,,,,
+     9.232477433,62203,,branch-misses,8298498,94.31,1.87,of all branches
+     9.242622347,3515017,,branches,8321370,0.00,,,,
+     9.242622347,77729,,branch-misses,8300536,94.32,2.34,of all branches
+     9.252786374,3275132,,branches,8323402,0.00,,,,
+     9.252786374,86188,,branch-misses,8302590,94.33,2.60,of all branches
+     9.262945247,3203892,,branches,8325402,0.00,,,,
+     9.262945247,71279,,branch-misses,8304613,94.33,2.15,of all branches
+     9.273110137,4064717,,branches,8327425,0.00,,,,
+     9.273110137,67225,,branch-misses,8306660,94.34,2.03,of all branches
+     9.283257838,5129372,,branches,8329425,0.00,,,,
+     9.283257838,81130,,branch-misses,8308682,94.35,2.44,of all branches
+     9.293420503,5072675,,branches,8331436,0.00,,,,
+     9.293420503,48500,,branch-misses,8310716,94.36,1.46,of all branches
+     9.303570390,7145115,,branches,8333429,0.00,,,,
+     9.303570390,14589,,branch-misses,8312733,94.36,0.44,of all branches
+     9.313747758,6372707,,branches,8335448,0.00,,,,
+     9.313747758,21539,,branch-misses,8314774,94.37,0.65,of all branches
+     9.324017364,8529683,,branches,8337565,0.00,,,,
+     9.324017364,30479,,branch-misses,8316913,94.38,0.91,of all branches
+     9.334182188,5296667,,branches,8339561,0.00,,,,
+     9.334182188,73475,,branch-misses,8318932,94.38,2.20,of all branches
+     9.344327131,5928205,,branches,8341533,0.00,,,,
+     9.344327131,38479,,branch-misses,8320925,94.39,1.15,of all branches
+     9.354478411,5912377,,branches,8343506,0.00,,,,
+     9.354478411,47601,,branch-misses,8322921,94.40,1.42,of all branches
+     9.364615166,5717388,,branches,8345458,0.00,,,,
+     9.364615166,26899,,branch-misses,8324896,94.41,0.80,of all branches
+     9.374763298,4732930,,branches,8347418,0.00,,,,
+     9.374763298,15661,,branch-misses,8326879,94.41,0.47,of all branches
+     9.384929091,4662761,,branches,8349393,0.00,,,,
+     9.384929091,17199,,branch-misses,8328877,94.42,0.51,of all branches
+     9.395051908,5388110,,branches,8351319,0.00,,,,
+     9.395051908,37513,,branch-misses,8330825,94.43,1.12,of all branches
+     9.405221945,5462940,,branches,8353291,0.00,,,,
+     9.405221945,57462,,branch-misses,8332819,94.43,1.71,of all branches
+     9.415393222,5107432,,branches,8355260,0.00,,,,
+     9.415393222,63205,,branch-misses,8334810,94.44,1.88,of all branches
+     9.425562081,3982420,,branches,8357223,0.00,,,,
+     9.425562081,73783,,branch-misses,8336795,94.45,2.20,of all branches
+     9.435719587,3642009,,branches,8359169,0.00,,,,
+     9.435719587,74556,,branch-misses,8338763,94.45,2.22,of all branches
+     9.445899693,3790212,,branches,8361134,0.00,,,,
+     9.445899693,77455,,branch-misses,8340751,94.46,2.31,of all branches
+     9.456073307,2151754,,branches,8363089,0.00,,,,
+     9.456073307,147493,,branch-misses,8342728,94.47,4.39,of all branches
+     9.466250827,2522465,,branches,8365043,0.00,,,,
+     9.466250827,225375,,branch-misses,8344704,94.47,6.72,of all branches
+     9.476411298,2524472,,branches,8366960,0.00,,,,
+     9.476411298,210302,,branch-misses,8346642,94.48,6.27,of all branches
+     9.486574853,2561485,,branches,8368890,0.00,,,,
+     9.486574853,198992,,branch-misses,8348595,94.49,5.93,of all branches
+     9.496745853,2443904,,branches,8370824,0.00,,,,
+     9.496745853,218392,,branch-misses,8350551,94.50,6.51,of all branches
+     9.506918452,1940514,,branches,8372759,0.00,,,,
+     9.506918452,109136,,branch-misses,8352506,94.50,3.26,of all branches
+     9.517082560,2207639,,branches,8374678,0.00,,,,
+     9.517082560,77968,,branch-misses,8354448,94.51,2.33,of all branches
+     9.527279385,2276410,,branches,8376629,0.00,,,,
+     9.527279385,176775,,branch-misses,8356420,94.52,5.28,of all branches
+     9.537441795,2304584,,branches,8378539,0.00,,,,
+     9.537441795,206295,,branch-misses,8358351,94.52,6.16,of all branches
+     9.547598202,1905689,,branches,8380438,0.00,,,,
+     9.547598202,149766,,branch-misses,8360272,94.53,4.48,of all branches
+     9.557763982,1067900,,branches,8382339,0.00,,,,
+     9.557763982,55772,,branch-misses,8362197,94.54,1.67,of all branches
+     9.567949344,1769425,,branches,8384260,0.00,,,,
+     9.567949344,159027,,branch-misses,8364140,94.54,4.76,of all branches
+     9.578135880,2048356,,branches,8386183,0.00,,,,
+     9.578135880,183843,,branch-misses,8366082,94.55,5.50,of all branches
+     9.588287825,2029214,,branches,8388059,0.00,,,,
+     9.588287825,137073,,branch-misses,8367980,94.56,4.10,of all branches
+     9.598462191,1711067,,branches,8389957,0.00,,,,
+     9.598462191,82829,,branch-misses,8369900,94.56,2.48,of all branches
+     9.608638312,2077442,,branches,8391854,0.00,,,,
+     9.608638312,73308,,branch-misses,8371817,94.57,2.20,of all branches
+     9.618871282,1914438,,branches,8393804,0.00,,,,
+     9.618871282,57441,,branch-misses,8373790,94.58,1.72,of all branches
+     9.629064271,2001509,,branches,8395710,0.00,,,,
+     9.629064271,54163,,branch-misses,8375717,94.58,1.62,of all branches
+     9.639255069,2004636,,branches,8397609,0.00,,,,
+     9.639255069,43175,,branch-misses,8377637,94.59,1.30,of all branches
+     9.649445193,2186486,,branches,8399503,0.00,,,,
+     9.649445193,96808,,branch-misses,8379552,94.60,2.91,of all branches
+     9.659625342,2382213,,branches,8401383,0.00,,,,
+     9.659625342,96458,,branch-misses,8381453,94.60,2.90,of all branches
+     9.669794762,2282864,,branches,8403247,0.00,,,,
+     9.669794762,92397,,branch-misses,8383338,94.61,2.78,of all branches
+     9.679965306,2220560,,branches,8405109,0.00,,,,
+     9.679965306,90500,,branch-misses,8385221,94.62,2.72,of all branches
+     9.690148103,2464677,,branches,8406982,0.00,,,,
+     9.690148103,99840,,branch-misses,8387114,94.62,3.00,of all branches
+     9.700307323,2622305,,branches,8408824,0.00,,,,
+     9.700307323,63550,,branch-misses,8388976,94.63,1.91,of all branches
+     9.710480815,2226420,,branches,8410677,0.00,,,,
+     9.710480815,103661,,branch-misses,8390851,94.63,3.12,of all branches
+     9.720670156,2005179,,branches,8412543,0.00,,,,
+     9.720670156,89458,,branch-misses,8392737,94.64,2.69,of all branches
+     9.724285213,1004410,,branches,8407471,0.00,,,,
+     9.724285213,5545,,branch-misses,8387677,94.64,0.17,of all branches
