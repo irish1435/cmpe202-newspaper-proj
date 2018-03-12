@@ -1,3 +1,4 @@
+import csv
 import argparse
 import sys
 from timeit import default_timer as timer
@@ -6,8 +7,8 @@ from newspaper import Article
 
 url1 = 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/12/121210_hongkong_politics.shtml'
 
+tf = [] 
 for x in range (0, 100):
-	url1 = 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/12/121210_hongkong_politics.shtml'
 	t1 = timer()
 	a = Article(url1, language='zh') # Chinese
 	a.download()
@@ -27,5 +28,18 @@ for x in range (0, 100):
 	#print(a.summary)
 
 	t2 = timer()
-	tf = t2-t1
-	print(tf)
+	t_val = t2-t1
+	print(t_val)
+	tf.append(t_val)
+
+print(tf)
+	
+
+csvf = "list.txt"
+#plt.plot(tf,size,'g-',label='latency')
+
+with open(csvf, "w") as output:
+	writer = csv.writer(output, lineterminator='\n')
+	for x in tf:
+		writer.writerow([x])
+
